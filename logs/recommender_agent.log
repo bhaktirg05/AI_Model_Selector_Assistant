@@ -1,0 +1,2277 @@
+2025-07-10 15:25:22,821 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 15:25:25,967 - INFO - ✅ Recommended models:
+Here are the top 4–5 models based on your requirements:
+
+### Multimodal (Multiple tasks):
+- **Gemini 1.5 Pro**: Superior multimodal model with highest accuracy of **0.997** and fast processing (**15 ms per token**).
+- **Gemini 1.5 Flash**: Fast and reliable multimodal capability with **6.1 ms per token** speed and **0.789 accuracy**.
+- **Veo 3**: Combines video and audio generation with great accuracy (**0.91**) and lightning-fast speed (**1 ms per token**).
+
+### Text Generation:
+- **Claude 3.5 Sonnet v2**: High accuracy (**0.93**) and ultra-fast speed (**0.7 ms per token**) for text generation.
+- **Command R+ (AWS)**: Excellent balance of speed (**9.3 ms per token**) and high accuracy (**0.877**).
+
+### Image Generation:
+- **Imagen 4 Ultra**: Fast cloud image generation (**1500 ms per image**) with an impressive accuracy of **0.95**.
+- **Stable Diffusion 3 Large (AWS)**: High accuracy (**0.87**) and decent speed (**3.96 sec per image**) for image generation tasks.
+2025-07-10 15:29:35,140 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 15:29:38,922 - INFO - ✅ Recommended models:
+### Top AI Models Based on Multifaceted Requirements:
+Below are the models that excel in various tasks (multimodal, image generation, text generation) with high accuracy and good speed performance:
+
+---
+
+#### **For Multimodal Tasks:**
+- **Gemini 1.5 Pro** (Google Cloud)  
+  - *Offers top accuracy (99.7%)* with balance in speed for multimodal tasks.
+- **Gemini 2.5 Flash** (Google Cloud)  
+  - *High accuracy (94%)* and fast response (3 ms/token) for multimodal/cached inputs.
+
+---
+
+#### **For Image Generation:**
+- **Imagen 4 Ultra** (Google Cloud)  
+  - *Delivers exceptional accuracy (95%)* with cloud hosting for complex image tasks.
+- **Imagen 4** (Google Cloud)  
+  - *Strong accuracy (90%)* and improved performance (4000 ms per image) for image creation.  
+
+---
+
+#### **For Text Generation:**
+- **Claude 3.5 Sonnet v2** (Google Cloud)  
+  - *High accuracy (93%)* paired with ultrafast speed (0.7 ms/token) for text tasks.
+- **Command R+** (AWS)  
+  - *Exceptional balance between accuracy (87.7%)* and moderate speed (9.3 ms/token).
+
+---
+
+#### **For Video/Audio Generation:**
+- **Veo 3** (Google Cloud)  
+  - *Combines audio + video generation*, offering great accuracy (91%) with ultrafast performance.
+
+---
+
+The selected models are tailored for diverse applications, emphasizing speed, accuracy, and hosting requirements.
+2025-07-10 19:19:37,798 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 19:19:38,975 - INFO - ✅ Recommended models:
+Based on your requirements, here are the top AI models:
+
+### Single-task Models:
+#### **Text Generation:**
+- **Claude 3.5 Sonnet v2**:
+Best balance of speed (0.7ms/token) and high accuracy (0.93), Claude networks,
+
+
+2025-07-10 20:52:00,263 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 20:52:04,520 - INFO - ✅ Recommended models:
+Based on the user's needs for models with diverse capabilities, here are the top picks:
+
+### **Multimodal Models (Text + Image/Other Multimodal Capabilities):**
+1. **Gemini 1.5 Pro**  
+   - Highly accurate multimodal model with a stellar 0.997 accuracy and swift 15 ms per token processing speed.
+
+2. **Pixtral Large (25.02)**  
+   - Multimodal AWS model offering balanced performance with 0.78 accuracy and robust processing at 15.8 ms per token.
+
+---
+
+### **Text Generation Models (Highly Accurate and Fast):**
+1. **Claude 3.5 Sonnet v2**  
+   - Exceptional text generation model boasting 0.93 accuracy with 0.7 ms per token, ideal for high-quality text outputs.
+
+2. **DeepSeek-R1**  
+   - AWS model highly effective for text generation with 0.908 accuracy and a quick 9 ms per token speed.
+
+3. **Claude Opus 4**  
+   - Accurate (0.91) model with moderate speed (8 ms per token), great for generating text efficiently.
+
+---
+
+### **Image Generation Models (High Accuracy):**
+1. **Imagen 4 Ultra**  
+   - Superior image generation capabilities with the highest accuracy (0.95) and reasonable speed (1500 ms per image).
+
+2. **Stable Diffusion 3 Large**  
+   - AWS's reliable model for image generation offering 0.87 accuracy and fast rendering at 3.96 sec/image.
+
+---
+
+### **Audio/Video Generation Models:**
+1. **GPT-4o-Mini-Audio-Preview**  
+   - Azure OpenAI model with top-tier audio capabilities, achieving 0.95 accuracy at 10 ms per token.
+
+2. **Veo 3**  
+   - Effective for video and audio generation with impressive accuracy (0.91) and ultra-fast speed (1 ms per token).
+
+These recommendations balance speed, accuracy, and multimodal capabilities to address a variety of use cases effectively.
+2025-07-10 20:53:12,551 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 20:53:16,009 - INFO - ✅ Recommended models:
+### Top AI Models Based on User's Requirements
+
+#### 1. **Gemini 1.5 Pro**  
+   - **Reason:** Perfect for multimodal tasks with exceptional accuracy (99.7%) and fast processing (15 ms per token).
+
+#### 2. **DeepSeek-R1**  
+   - **Reason:** High-performing text generation model with excellent speed (9 ms per token) and accuracy (90.8%).
+
+#### 3. **Imagen 4 Ultra**  
+   - **Reason:** Best choice for image generation with high accuracy (95%) and reasonable processing time (1500 ms per image).
+
+#### 4. **Veo 3**  
+   - **Reason:** Ideal for video and audio generation tasks with impressive accuracy (91%) and ultra-fast speed (1 ms per token).
+
+#### 5. **GPT-4o-Mini-Audio-Preview**  
+   - **Reason:** Great for audio generation tasks, combining high accuracy (95%) with efficient processing speed (10 ms per token).
+
+#### Bonus: **Gemini Embedding**  
+   - **Reason:** Accurate (94%), extremely fast (3 ms per token), and versatile for input embeddings across multiple tasks.
+
+Let me know if more tailored recommendations are needed for specific features!
+2025-07-10 21:40:06,234 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 21:40:09,752 - INFO - ✅ Recommended models:
+Below is the selection of the top AI models based on the user requirement for multi-task support (e.g., image generation, text generation, video, and multimodal capabilities). I have chosen the models with balanced speed and high accuracy for task-specific purposes:
+
+### Selected AI Models:
+
+- **Gemini 1.5 Pro**  
+  *Reason:* High accuracy (0.997) with multimodal capabilities; ideal for tasks involving text and visuals.
+
+- **Imagen 4 Ultra**  
+  *Reason:* Best-in-class for image generation accuracy (0.95) with 1500ms speed per image, making it ideal for high-quality visual content.
+
+- **Veo 3**  
+  *Reason:* High accuracy (0.91) for video and audio generation, suitable for multimedia project requirements.
+
+- **Claude 3.5 Sonnet v2**  
+  *Reason:* Delivers exceptional accuracy (0.93) for text-based tasks with low latency (0.7 ms per token), perfect for efficient text generation.
+
+- **Llama 3.1 Instruct (70B)**  
+  *Reason:* Strong accuracy (0.87) with decent speed (10.2 ms per token) for complex text generation tasks.
+
+- **Stable Diffusion 3 Large**    
+  *Reason:* High accuracy (0.87) for image generation with quick processing (3.96 seconds per image), excellent for generating creative visuals.
+
+
+2025-07-10 21:57:24,823 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 21:57:28,800 - INFO - ✅ Recommended models:
+Here are the top 4–5 models selected based on your requirements for multimodal or multi-task capabilities (e.g., text/image/video generation, fast speed, and high accuracy):
+
+1. **Gemini 1.5 Pro**  
+   - *Reason:* Multimodal with outstanding accuracy (0.997) and relatively fast processing (15 ms per token).
+
+2. **Veo 3**  
+   - *Reason:* Video + Audio generation with high accuracy (0.91) and ultra-fast speed (1 ms per token).
+
+3. **Imagen 4 Ultra**  
+   - *Reason:* Image generation model with the highest accuracy (0.95) and moderate speed (1500 ms per image).
+
+4. **Claude 3.5 Sonnet v2**  
+   - *Reason:* Excellent text generation accuracy (0.93) and ultra-fast speed (0.7 ms per token).
+
+5. **GPT-4o-Mini-Audio-Preview**  
+   - *Reason:* High accuracy (0.95) for audio generation and fast output (10 ms per token).  
+
+These models are well-suited to meet diverse task requirements while ensuring high performance.
+2025-07-10 21:58:37,999 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 21:58:42,726 - INFO - ✅ Recommended models:
+Here are the top 4–5 models selected based on multi-task capabilities, speed, and accuracy:
+
+- **Gemini 1.5 Pro (Google Cloud)**: Provides high accuracy (0.997) and multimodal capabilities with a reasonable speed (15 ms per token).
+- **Veo 3 (Google Cloud)**: Offers video and audio generation with excellent accuracy (0.91), capable of supporting diverse tasks.
+- **Imagen 4 Ultra (Google Cloud)**: High-quality image generation with 0.95 accuracy and fast performance (1500 ms per image).
+- **Claude 3.5 Sonnet v2 (Google Cloud)**: Excellent for text generation with high accuracy (0.93) and a very fast speed (0.7 ms per token).
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**: Exceptional for audio tasks with 0.95 accuracy and fast processing (10 ms per token).
+2025-07-10 23:14:17,354 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 23:14:24,504 - INFO - ✅ Recommended models:
+### Top Model Recommendations:
+
+#### Multimodal (Text + Image or Text + Other Modalities) Capabilities:
+- **Gemini 1.5 Pro**  
+  Remarkably high accuracy (0.997) and balanced speed (15 ms/token), ideal for multimodal tasks.
+  
+- **Gemini 1.5 Flash**  
+  Fast processing (6.1 ms/token) and good performance (accuracy 0.789) for multimodal solutions.
+
+#### Image Generation:
+- **Imagen 4 Ultra (Google Cloud)**  
+  Excellent image generation accuracy (0.95) with relatively fast processing (1500 ms/image).
+  
+- **Stable Diffusion 3 Large (AWS)**  
+  High accuracy for image generation (0.87) with competitive processing time (3.96 sec/image).
+
+#### Text Generation:
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  Superior accuracy (0.93) for text generation with impressive speed (0.7 ms/token).
+  
+- **Mistral Small 3.1 (25.03) (Google Cloud)**  
+  Balanced speed (6.7 ms/token) and accuracy (0.89), suitable for reliable text generation tasks.
+  
+- **Command R+ (AWS)**  
+  Great accuracy (0.877) at a reasonable speed (9.3 ms/token), useful for diverse text outputs.
+
+#### Specialized Use Cases:
+- **Veo 3 (Google Cloud)**  
+  Strong capabilities in video/audio generation (accuracy 0.91, 1 ms/token), suited for multimedia tasks.
+  
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+  Excellent audio processing (accuracy 0.95, fast processing at 10 ms/token).
+
+These models cater well to diverse AI requirements, covering a mix of text, image, and multimodal tasks.
+2025-07-10 23:14:31,181 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 23:14:36,997 - INFO - ✅ Recommended models:
+To suggest the top 4–5 AI models based on the user's needs, I have selected those with both high **accuracy** and **speed** while aligning with **multiple task capabilities** (if applicable). Here is the refined list:
+
+1. **Gemini 1.5 Pro (Google Cloud)**  
+   - Multimodal capabilities with outstanding accuracy (0.997) and reasonable token processing speed (15 ms).
+
+2. **Imagen 4 Ultra (Google Cloud)**  
+   - Exceptional image generation accuracy (0.95) and fast speed (1500 ms per image).
+
+3. **Veo 3 (Google Cloud)**  
+   - Superior video and audio generation with a high accuracy of 0.91 and ultra-fast processing speed (1 ms per token).
+
+4. **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+   - High accuracy (0.95) with audio capabilities and fast speed (10 ms per token), ideal for multimedia needs.  
+
+5. **Amazon Nova Pro (AWS)**  
+   - Excellent option for text generation with strong accuracy (0.89) and a competitive processing speed of 16 ms per token.
+
+### Why These Models?
+These selections consider **task diversity**, **high performance (accuracy and speed)**, and **cloud-based hosting** for scalability, ensuring they cater to a wide range of applications or multi-task scenarios.
+2025-07-10 23:15:12,297 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 23:15:22,259 - INFO - ✅ Recommended models:
+### Based on your requirement for **multiple tasks** and the dataset provided, here are the **top 4–5 model recommendations**:
+
+- **Gemini 1.5 Pro**  
+  *Reason:* A highly accurate (99.7%) multimodal model with great performance for multiple tasks, hosted on the cloud.
+
+- **Imagen 4 Ultra**  
+  *Reason:* Offers state-of-the-art image generation with high accuracy (95%) and fast image generation speeds (1500ms per image).
+
+- **Veo 3**  
+  *Reason:* Combines video and audio generation capabilities with exceptional accuracy (91%) and near-instant processing (1ms per token).
+
+- **Claude 3.5 Sonnet v2**  
+  *Reason:* Provides accurate (93%) and ultrafast (0.7ms per token) text generation for efficient cloud-hosted applications.
+
+- **Embed 3 English**  
+  *Reason:* Best-in-class (accuracy: 95.6%) for textual input or embedding needs, ensuring robust language understanding and generation.
+
+These models collectively cover multimodal tasks (e.g., images, video, text) and specific needs like high-speed or precision text/image generation.
+2025-07-10 23:36:16,609 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-10 23:36:21,158 - INFO - ✅ Recommended models:
+Here are the top models based on your requirements for "multiple tasks" such as text generation, multimodal capabilities, or image generation. These options maintain high accuracy and speed:
+
+### Multimodal Models:
+- **Gemini 1.5 Pro**: High accuracy (0.997) and versatility across image and text tasks, making it suitable for multimodal workflows.
+- **Gemini 1.5 Flash**: Balanced multimodal solution with fast speed (6.1 ms/token) and reasonable accuracy (0.789).
+  
+### Text Generation Models:
+- **Claude 3.5 Sonnet v2**: Excellent text generation model with high accuracy (0.93) and fast speed (0.7 ms per token).
+- **Command R+**: High-speed text generation (9.3 ms/token) with strong accuracy (0.877), ideal for general use cases.
+- **DeepSeek-R1**: Strong accuracy (0.908) and reliable performance (9 ms per token) for text tasks.
+
+### Image Generation Models:
+- **Imagen 4 Ultra**: The most accurate model for image generation (0.95) with a reasonable processing time of 1500 ms per image.
+- **Imagen 4**: Offers a balance of high accuracy (0.9) and faster image processing (4000 ms per image).
+
+Let me know if you need a deeper focus on any single capability or additional requirements!
+2025-07-11 08:19:30,481 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 08:19:34,053 - INFO - ✅ Recommended models:
+Certainly, here are the top 4–5 models suitable for both text generation and multimodal tasks based on speed, accuracy, and specific capabilities. If the user wants multiple-task models or specialization in specific fields like image generation, I recommend the following:
+
+---
+
+**Multimodal Models:**
+1. **Gemini 1.5 Pro**  
+   - Highly accurate (99.7%) multimodal model for diverse tasks, hosted on the cloud with reasonable speed (15 ms per token).
+
+2. **Multimodalembedding**  
+   - Excellent embeddings for multimodal tasks (text-focused), high accuracy (90%) with acceptable speed (9.4 ms per token).
+
+---
+
+**Text Generation Models:**
+3. **Claude Opus 4 (Azure OpenAI)**  
+   - Highly accurate (91%) and extremely fast (8 ms per token) for high-quality text-generation tasks.
+
+4. **Command R+ (AWS)**  
+   - Offers robust text generation capabilities with strong accuracy (87.7%), well-balanced speed (9.2 ms per token).
+
+---
+
+**Image Generation Models:**
+5. **Imagen 4 Ultra (Google Cloud)**  
+   - Outstanding image generation capabilities with high accuracy (95%) and moderate speed (1500 ms per image).
+
+
+2025-07-11 08:27:15,796 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 08:27:19,971 - INFO - ✅ Recommended models:
+Here are the top suggestions based on your requirement for an AI model suited for **multiple tasks or capabilities** and performance criteria:
+
+### Models for Multimodal Capabilities:
+- **Gemini 1.5 Pro** (Google Cloud)  
+  Achieves a very high accuracy (0.997) with multimodal support, offering reliable performance across tasks.
+  
+- **Gemini 1.5 Flash** (Google Cloud)  
+  Combines multimodal support with exceptional speed (6.1 ms per token), suitable for fast and accurate results.
+
+- **Pixtral Large (25.02)** (AWS)  
+  Provides multimodal capability at reasonable speed (15.8 ms per token), ideal for complex tasks requiring multi-format input processing.
+
+### Models for Image Generation:
+- **Imagen 4 Ultra** (Google Cloud)  
+  Delivers high image accuracy (0.95) and decent speed (1500 ms per image), best for advanced image generation.
+
+- **Stable Diffusion 3 Large** (AWS)  
+  Offers excellent accuracy (0.87) with fast image generation (3.96 sec per image), ideal for creative applications.
+
+### Models for Text + Audio + Video Generation:
+- **Veo 3** (Google Cloud)  
+  Handles video and audio generation with high accuracy (0.91) and exceptional token speed (1 ms/token).
+
+- **Embed 3 English** (AWS)  
+  Offers excellent text accuracy (0.956), ideal for multilingual or text-specific generation tasks.
+
+### Bonus Text Generation Suggestion:
+- **Claude 3.5 Sonnet v2** (Google Cloud)  
+  Combines strong accuracy (0.93) with ultra-low latency (0.7 ms/token), perfect for high-quality text generation.
+2025-07-11 13:28:18,400 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 13:28:22,748 - INFO - ✅ Recommended models:
+### Top Models Based on Requirements:
+
+#### If Single or Multiple Tasks with "Multimodal" or Diverse Applications:
+- **Gemini 1.5 Pro**  
+  Exceptional multimodal capabilities with high accuracy (99.7%) and fast token processing (15 ms); ideal for handling diverse tasks.  
+
+- **Claude 3.5 Sonnet v2**  
+  Highly accurate (93%) and ultra-fast for text generation (0.7 ms per token); suitable for textual requirements with precision.  
+
+- **Pixtral Large (25.02)**  
+  Reliable for multimodal tasks with decent speed (15.8 ms per token) and usability in versatile AI applications.  
+
+#### If Text Generation Dominates:
+- **Embed 3 English**  
+  Superior text generation with top-tier accuracy (95.6%) and blazing speed (5 ms per token); ideal for efficient results.  
+
+- **Command R+**  
+  Balancing fast speed (9.3 ms per token) and robust accuracy (87.7%), reliable for comprehensive text-based needs.  
+
+#### Image and Content Flexibility OR Generation-Specific Tools:
+- **Imagen 4 Ultra**  
+  Exceptional image generation with high accuracy (95%) and ultra-fast processing speed (1500 ms per image).  
+
+- **Stable Diffusion 3 Large**  
+  Accurate (87%) and efficient image generation (3.96 sec per image); well-suited for creative/design outputs.  
+
+Each selection balances performance, speed, and accuracy tailored to user demands (e.g., multimodal, generation tasks).
+2025-07-11 13:49:18,015 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 13:49:23,930 - INFO - ✅ Recommended models:
+Here are the top 4–5 AI models from the dataset based on your requirements:
+
+### If the user needs **multimodal or multiple task capabilities:**
+- **Gemini 1.5 Pro (Google Cloud):** High accuracy (99.7%) and impressive response time for multimodal tasks.
+- **Veo 3 (Google Cloud):** Exceptional performance for video + audio generation with 0.91 accuracy and fast speed.
+- **Pixtral Large (25.02) (AWS):** Reliable multimodal capabilities with competitive accuracy (78%) and a low response time.
+- **Gemini Embedding (Google Cloud):** Advanced embeddings for input tasks with accuracy (94%) and fast processing (3 ms per token).
+- **Claude Opus 4 (Azure OpenAI):** Combines text and multimodal efficiency with 0.91 accuracy and fast speed (8 ms per token).
+
+---
+
+### If the user needs **text generation:**
+- **Embed 3 English (AWS):** Highest accuracy among the text generators (95.6%) with a fast response (5 ms per token).
+- **DeepSeek-R1 (AWS):** High accuracy (90.8%), fast speed (9 ms per token), and robust for text generation use cases.
+- **Command R+ (AWS):** High accuracy (87.7%) and well-optimized speed (9.3 ms per token) for text generation.
+- **Claude 3.5 Sonnet v2 (Azure OpenAI):** Extremely fast (0.7 ms per token) and strong accuracy of 93%.
+- **Llama 3.2 Instruct (90B) (AWS):** Excellent accuracy (87%) and good speed (8.2 ms per token).
+
+---
+
+### If the user needs **image generation:**
+- **Imagen 4 Ultra (Google Cloud):** Outstanding accuracy (95%) and excellent speed (1500 ms per image) for top-tier image creation.
+- **Stable Diffusion 3 Large (AWS):** Reliable with high accuracy (87%) and decent speed (3.96 sec per image).
+- **Imagen 4 (Google Cloud):** Great combination of 90% accuracy and balanced speed (4000 ms per image).
+- **Stable Diffusion 3.5 Large (AWS):** Solid performer with competitive accuracy (77%) and flexible speed options.
+
+2025-07-11 15:24:33,105 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:24:37,411 - INFO - ✅ Recommended models:
+### Selected AI Models Based on Requirements:
+
+1. **Gemini 1.5 Pro**  
+   - **Reason**: Outstanding multimodal capabilities with an extremely high accuracy of 0.997 and fast token processing (15 ms per token).
+
+2. **Imagen 4 Ultra**  
+   - **Reason**: Superior image generation with the highest accuracy (0.95) and fast speed (1500 ms per image), making it ideal for high-quality visual tasks.
+
+3. **Veo 3**  
+   - **Reason**: Best suited for video and audio generation with a top-tier accuracy of 0.91 and ultra-fast processing speed (1 ms per token).
+
+4. **Claude 3.5 Sonnet v2**  
+   - **Reason**: Excellent text generation model with a strong balance of speed (0.7 ms per token) and accuracy (0.93) for detail-rich outputs.
+
+5. **Embed 3 English**  
+   - **Reason**: Exceptional accuracy (0.956) for embedding-based text generation, combined with a quick processing speed (5 ms per token), ideal for contextual tasks.
+
+6. **Stable Diffusion 3 Large**  
+   - **Reason**: Delivers reliable image generation with high accuracy (0.87) and efficient processing time of 3.96 seconds per image.
+
+### Notes:
+- For **multimodal needs**, **Gemini 1.5 Pro** is the most versatile option.
+- For **video and audio**, **Veo 3** stands out.
+- Combined tasks requiring both **image and text generation** should consider **Gemini 1.5 Pro**, **Imagen 4 Ultra**, and **Claude 3.5 Sonnet v2**.
+2025-07-11 15:25:16,560 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:25:20,046 - INFO - ✅ Recommended models:
+Here is the list of the top 4–5 AI models selected based on multiple task capabilities and the highest speed-accuracy combination across models:
+
+- **Gemini 1.5 Pro**  
+  *Reason*: Offers high accuracy (0.997) and multimodal functionality with fast token processing speed (15 ms per token). Ideal for both image and text-based tasks.
+
+- **Imagen 4 Ultra**  
+  *Reason*: Provides the best image generation accuracy (0.95) with an exceptional speed of 1500 ms per image for cloud hosting. Ideal for high-quality image generation.
+
+- **Claude 3.5 Sonnet v2**  
+  *Reason*: Excellent for text generation with high accuracy (0.93) and ultra-fast speed (0.7 ms per token). Balanced for robust cloud-based text tasks.
+
+- **Veo 3**  
+  *Reason*: Handles video and audio generation with top-tier accuracy (0.91) and rapid processing (1 ms per token). Versatile for multimedia content creation.
+
+- **Embed 3 English**  
+  *Reason*: Exceptional text generation model with remarkable accuracy (0.956) and fast processing speed (5 ms per token). Perfect for high-quality text-based outputs.  
+2025-07-11 15:26:19,090 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:26:24,487 - INFO - ✅ Recommended models:
+Based on the list of models and user needs, here are the **top 4–5 model recommendations**. 
+
+---
+
+### **If the requirement is for multimodal (combined tasks):**
+- **Gemini 1.5 Pro**  
+  - High accuracy (0.997), multimodal capabilities, and reasonable speed (15 ms/token).  
+- **Claude 3.5 Sonnet v2**  
+  - Strong text generation (accuracy: 0.93) with excellent speed (0.7 ms/token).  
+- **Veo 3**  
+  - Supports both video and audio generation with high accuracy (0.91) and fast performance (1 ms/token).  
+- **Imagen 4 Ultra**  
+  - Offers exceptional image generation accuracy (0.95) with the fastest processing speed (1.5 sec/image).  
+- **Mistral OCR (25.05)**  
+  - Strong accuracy (0.89) across multimodal text and reasonable speed of 0.2 ms/token.
+
+---
+
+### **If the requirement is text generation:**
+- **Claude 3.5 Sonnet v2**  
+  - Outstanding speed (0.7 ms/token) and high accuracy (0.93).  
+- **Llama 3.1 Instruct (70B)**  
+  - Top-tier accuracy (0.87) with rapid processing (0.4–2.2 ms/token).  
+- **Command R+**  
+  - Excellent accuracy (0.877) and strong speed (9.3 ms/token).  
+- **GPT-4o-Mini-Transcribe**  
+  - High reliability (accuracy: 0.88) and reasonable processing time (11.7 ms/token).  
+
+---
+
+### **If the requirement is image generation:**
+- **Imagen 4 Ultra**  
+  - Leading accuracy (0.95) and very fast performance (1.5 sec/image).  
+- **Imagen 4**  
+  - Exceptional accuracy (0.9) with strong speed (4 sec/image).  
+- **Stable Diffusion 3 Large**  
+  - High accuracy (0.87) with relatively fast speed (3.96 sec/image).  
+- **Imagen 4 Fast**  
+  - Good accuracy (0.8) with fast processing (5.5 sec/image).  
+
+---
+
+Let me know if you'd like a deeper dive into any specific category or model!
+2025-07-11 15:36:58,649 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:37:02,086 - INFO - ✅ Recommended models:
+To recommend the most suitable AI models from the dataset based on the user's diverse requirements across tasks (e.g., multimodal, text generation, image generation, advanced capabilities, etc.), here are the **top 4–5 models**: 
+
+### **Top Recommendations**
+- **Gemini 1.5 Pro (Google Cloud)**  
+  - **Reason**: Best-in-class **multimodal capabilities** with exceptionally high accuracy (0.997) and cloud-based hosting.
+
+- **Imagen 4 Ultra (Google Cloud)**  
+  - **Reason**: Superior **image generation model** with high speed (1500ms per image) and accuracy (0.95).
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  - **Reason**: Highly accurate **text generation model** (0.93) with extremely fast response (0.7ms per token).
+
+- **Veo 3 (Google Cloud)**  
+  - **Reason**: Advanced **video + audio generation** model with excellent accuracy (0.91) and ultra-fast processing (1ms per token).
+
+- **DeepSeek-R1 (AWS)**  
+  - **Reason**: Accurate (0.908) and versatile **text generation** model with reasonable speed (9ms per token).  
+
+These models cover **multimodal, text generation, image processing**, and **video/audio generation** tasks efficiently. Let me know if you want more detailed recommendations!
+2025-07-11 15:42:27,708 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:42:31,090 - INFO - ✅ Recommended models:
+Here are the **top 4–5 AI models** selected based on the user's requirements (speed, accuracy, and multiple-task suitability, if applicable):
+
+### Multimodal Models:
+- **Gemini 1.5 Pro**  
+  - Exceptional multimodal capabilities with **high accuracy (0.997)** and **fast speed (15 ms/token)**.
+- **Imagen 4 Ultra**  
+  - Best for **high-quality image generation** with **top-tier accuracy (0.95)** and **fast output (1500 ms/image)**.
+
+### Text Generation Models:
+- **Claude 3.5 Sonnet v2** (Azure OpenAI)  
+  - Delivers **fast text generation (0.7 ms/token)** with **high accuracy (0.93)**.
+- **Command R+** (AWS)  
+  - Great balance of speed (**9.3 ms/token**) and accuracy (**0.877**) with **instruction-following capabilities**.
+
+### Specialized AI for Image + Video:
+- **Veo 3**  
+  - Ideal for **video + audio generation workflows**, offers **superior accuracy (0.91)**.  
+
+2025-07-11 15:47:49,411 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:47:52,189 - INFO - ✅ Recommended models:
+Based on the extensive dataset provided and the given requirement for suitability across tasks, here are the top 4–5 AI models recommended for multiple capabilities:
+
+- **Gemini 1.5 Pro**: High accuracy (0.997) and multimodal capabilities make it highly versatile for handling diverse tasks.
+
+- **Imagen 4 Ultra**: Exceptional accuracy (0.95) and fast image generation (1500ms per image), perfect for image-specific tasks.
+
+- **Veo 3**: Combines video and audio generation with high accuracy (0.91), making it ideal for multimedia tasks.
+
+- **Embed 3 English**: Outstanding accuracy (0.956) and low latency (5ms per token), ideal for text embeddings and high-quality text-related tasks.
+
+- **Claude 3.5 Sonnet v2**: Best-in-class speed (0.7ms per token) and high accuracy (0.93) for text generation tasks.
+
+Each model excels in efficiency and accuracy, catering to various use cases like multimodal, image generation, embeddings, and text generation.
+2025-07-11 15:50:49,168 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 15:50:54,373 - INFO - ✅ Recommended models:
+Based on your requirements for selecting AI models, here is a list of the top 4–5 models suitable for multiple tasks or specific functionalities with high accuracy and/or speed:
+
+---
+
+### **Top Multimodal Models (Multiple Capabilities)**
+1. **Gemini 1.5 Pro**  
+   - **Reason**: Exceptional multimodal performance with 0.997 accuracy and fast processing (15 ms per token).  
+
+2. **Claude 3.5 Sonnet v2**  
+   - **Reason**: Provides high-quality text generation with 0.93 accuracy and extremely low latency (0.7 ms per token).
+
+3. **Imagen 4 Ultra**  
+   - **Reason**: Best-in-class image generation with high accuracy (0.95) and ultra-fast speed (1500 ms per image).  
+
+4. **Pixtral Large (25.02)**  
+   - **Reason**: Reliable multimodal functionality with decent speed (15.8 ms per token) and accuracy (0.78).  
+
+---
+
+### **Top Specialized Models**
+1. **Claude Opus 4 (Azure)**  
+   - **Reason**: High accuracy (0.91) and excellent text generation speed (8 ms per token).  
+
+2. **Stable Diffusion 3 Large (AWS)**  
+   - **Reason**: High-quality image generation with 0.87 accuracy and efficient performance (3.96 seconds per image).  
+
+3. **Embed 3 English**  
+   - **Reason**: Outstanding text embedding capabilities with 0.956 accuracy and ultra-fast processing (5 ms per token).  
+
+4. **Veo 3**  
+   - **Reason**: Extraordinary video and audio generation capabilities with top accuracy (0.91) and minimal latency (1 ms per token).  
+
+5. **GPT-4o-Mini-Audio-Preview**  
+   - **Reason**: Excellent audio generation performance with accuracy (0.95) and fast processing (9.7 ms per token).  
+
+--- 
+
+These models strike a balance between high accuracy and speed, ensuring efficient and high-quality task performance for various use cases.
+2025-07-11 17:16:05,034 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:16:07,770 - INFO - ✅ Recommended models:
+Here are the top models selected based on speed, accuracy, and feature diversity suitable for multiple tasks:
+
+- **Gemini 1.5 Pro**: Multimodal support with very high accuracy (99.7%) and reasonable speed (15 ms per token); ideal for multi-task scenarios.
+- **Imagen 4 Ultra**: Best for image generation with a high accuracy of 95% and very fast speed (1500ms per image).
+- **Claude 3.5 Sonnet v2**: High efficiency for text generation with 0.93 accuracy and exceptional speed (0.7 ms per token).
+- **Veo 3**: Suitable for Video + Audio generation; excellent accuracy (91%) with lightning-fast processing (1 ms per token).
+- **Embed 3 English**: Outstanding for embedding tasks with a remarkable accuracy of 95.6% and a speed of 5 ms per token.
+
+These selected models cover multimodal, text generation, embeddings, and image/video generation with high performance.
+2025-07-11 17:23:22,530 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:23:26,467 - INFO - ✅ Recommended models:
+Here are the top 4-5 AI models based on the provided dataset and considering multiple-task capabilities with high speed and accuracy:
+
+- **Gemini 1.5 Pro**  
+  *Reason*: Excellent multimodal capability, highest accuracy (0.997), and decent speed (15 ms per token).
+
+- **Imagen 4 Ultra**  
+  *Reason*: Outstanding image generation model with the highest accuracy (0.95) and very fast image generation speed (1500 ms per image).
+
+- **Claude 3.5 Sonnet v2**  
+  *Reason*: High-performance text generation model with accuracy (0.93) and extremely fast processing (0.7 ms per token).
+
+- **Veo 3**  
+  *Reason*: A versatile video and audio generation model with high accuracy (0.91) and ultra-fast processing speed (1 ms per token).
+
+- **DeepSeek-R1**  
+  *Reason*: Strong text generation capabilities with excellent accuracy (0.908) and fast speed (9 ms per token).
+
+These models cater to multimodal or combination task requirements across text, image, and video/audio generation, ensuring high accuracy and performance.
+2025-07-11 17:33:47,992 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:33:51,547 - INFO - ✅ Recommended models:
+Here are the top 4–5 AI models based on the dataset provided and their suitability for the user’s requirements (assuming multiple tasks are involved such as text generation, multimodal capabilities, image generation, etc.):
+
+- **Gemini 1.5 Pro** (Google Cloud): Offers multimodal capabilities with very high accuracy (0.997) and reasonable speed (15 ms per token).
+- **Imagen 4 Ultra** (Google Cloud): Excellent image generation with high accuracy (0.95) and fastest speed (1500 ms per image) in its category.
+- **Claude 3.5 Sonnet v2** (Google Cloud): High-performing text generation model with excellent accuracy (0.93) and ultra-fast speed (0.7 ms per token).
+- **Embed 3 English** (AWS): Exceptional text embedding with the highest accuracy (0.956) and highly efficient speed (5 ms per token).
+- **Veo 3** (Google Cloud): Suitable for video and audio generation with very high accuracy (0.91) and fast performance (1 ms per token).
+
+These models span a range of tasks including multimodal, text, image, audio, and video capabilities, ensuring robust performance for diverse requirements.
+2025-07-11 17:35:13,716 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:35:17,031 - INFO - ✅ Recommended models:
+Based on the given dataset, I selected the top 4–5 AI models that are suitable for multiple tasks while offering high accuracy and efficiency:
+
+- **Gemini 1.5 Pro**: A highly accurate multimodal model (99.7%) with reasonable speed (15 ms per token), ideal for diverse use cases.
+- **Veo 3**: Best for combined video and audio generation, with top-tier accuracy (91%) and unparalleled speed (1 ms per token).
+- **Imagen 4 Ultra**: Offers the highest accuracy (95%) and the fastest image generation speed (1500 ms per image) among image generation models.
+- **Claude 3.5 Sonnet v2**: Superior for text generation, balancing accuracy (93%) with ultra-fast speed (0.7 ms per token).
+- **GPT-4o-Mini-Audio-Preview**: Excels in audio tasks with exceptional accuracy (95%) and efficient processing speed (10 ms per token).
+
+These models are carefully chosen to provide a mixture of capabilities like text, image, audio, and multimodal tasks.
+2025-07-11 17:39:26,384 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:39:30,109 - INFO - ✅ Recommended models:
+### Top 4–5 Models and Justification:
+
+#### Multimodal Capabilities:
+- **Gemini 1.5 Pro**  
+  *Feature: Multimodal; Speed: 15 ms/token; Accuracy: 0.997*  
+  - Extremely high accuracy and supports multimodal tasks, making it versatile and reliable.  
+
+- **Claude Opus 4**  
+  *Feature: Multimodal; Speed: 20–25 ms/token; Accuracy: 0.91*  
+  - Balanced accuracy and speed for handling both text and multimodal tasks efficiently.
+
+#### Image Generation:
+- **Imagen 4 Ultra**  
+  *Feature: Image Generation; Speed: 1500 ms/image; Accuracy: 0.95*  
+  - Superior accuracy with fast generation speeds, ideal for high-quality image outputs.
+
+- **Imagen 4**  
+  *Feature: Image Generation; Speed: 4000 ms/image; Accuracy: 0.9*  
+  - Slightly slower but still highly accurate for a variety of image generation needs.
+
+#### Text Generation:
+- **Claude 3.5 Sonnet v2**  
+  *Feature: Text Generation; Speed: 0.7 ms/token; Accuracy: 0.93*  
+  - Extremely fast and accurate for high-volume text generation tasks.
+
+- **GPT-4.5-Preview**  
+  *Feature: Text Generation; Speed: 13.2 ms/token; Accuracy: 0.89*  
+  - A strong contender for text tasks, balancing speed and precision effectively.
+2025-07-11 17:41:04,347 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:41:07,287 - INFO - ✅ Recommended models:
+Here are the top models based on the user's requirement for **multi-task AI capabilities across text, image, and multimodal functionalities**:
+
+### Suggested Models:
+1. **Gemini 1.5 Pro**  
+   - **Reason:** High multimodal capability with **best-in-class accuracy (0.997)** and fast text processing (15 ms per token).
+
+2. **Imagen 4 Ultra**  
+   - **Reason:** Best-in-class image generation model with **highest accuracy (0.95)** and fast image creation (1500 ms per image).
+
+3. **Veo 3**  
+   - **Reason:** Great for **video + audio generation** tasks with **accuracy of 0.91** and ultra-fast video/audio processing (1 ms per token).
+
+4. **Embed 3 English (AWS)**  
+   - **Reason:** Exceptional accuracy for embeddings/text generation (**accuracy 0.956**) and fast speed (5 ms per token), suitable for text-driven workflows.
+
+5. **Claude Opus 4 (Azure OpenAI)**  
+   - **Reason:** High-performing **text generation** model with balanced speed (8 ms per token) and accuracy (0.91).
+
+6. **Stable Diffusion 3 Large**  
+   - **Reason:** Ideal for **image generation** with excellent accuracy (0.87) and reasonable speed (3.96 sec per image), widely used in creative applications.
+
+---
+
+Let me know if you'd like further optimization (single-task or specific use cases)!
+2025-07-11 17:43:24,392 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:43:26,635 - INFO - ✅ Recommended models:
+Based on the user's requirements for multiple tasks, here are the top 4–5 AI models:
+
+- **Gemini 1.5 Pro**: Best-in-class multimodal capabilities, with very high accuracy (0.997) and fast token processing speed (15 ms), ideal for diverse tasks.
+- **Imagen 4 Ultra**: Top-notch image generation with the highest accuracy (0.95) and fast speed (1500 ms/image), suitable for visual creation needs.
+- **Veo 3**: Exceptional video and audio generation with high accuracy (0.91) and ultra-fast speed (1 ms/token), covering multimedia requirements.
+- **Claude 3.5 Sonnet v2**: Highly efficient text generation with accuracy (0.93) and extraordinary speed (0.7 ms/token), perfect for text-based tasks.
+- **Stable Diffusion 3 Large**: High-performing image generation with strong accuracy (0.87) and reasonable processing speed (~3.96 sec/image), great for detailed visuals.
+
+These models represent a balanced mix of multimodal, image, video/audio, and text generation tasks.
+2025-07-11 17:51:34,114 - INFO - ✅ Fetched 104 models from MongoDB collection `Models`.
+2025-07-11 17:51:36,536 - INFO - ✅ Recommended models:
+Based on your requirement for models capable of handling multiple tasks (multimodal or text/image generation) with high accuracy and speed, here are the top 4–5 recommended choices:
+
+- **Gemini 1.5 Pro**: Offers multimodal capabilities with exceptional accuracy (0.997) and fast processing speed (15 ms per token).
+- **Imagen 4 Ultra**: Best for image generation with excellent accuracy (0.95) and fast speed (1500 ms per image).
+- **Veo 3**: Combines video and audio generation with impressive accuracy (0.91) and ultra-fast speed (1 ms per token).
+- **Pixtral Large (25.02)**: Provides multimodal functionality, prioritized for diverse applications, with balanced accuracy (0.78) but slightly slower speed (15.8 ms per token).
+- **Claude 3.5 Sonnet v2**: Superior text generation capabilities with high accuracy (0.93) and noteworthy speed (0.7 ms per token).
+
+These models offer high performance tailored for your multi-task requirements.
+2025-07-11 17:56:57,860 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-11 17:57:02,625 - INFO - ✅ Recommended models:
+Here are the **top 4–5 models** across tasks, based on the dataset provided:
+
+### For Multimodal Requirements (Supports Multiple Tasks):
+- **Pixtral Large (25.02)** (AWS): High multimodal accuracy (0.78) with reasonable speed (15.8 ms per token)—ideal for generalized task requirements.  
+- **Gemini 1.5 Flash** (Google Cloud): A solid multimodal model with decent accuracy (0.789) and great speed (6.1 ms per token).  
+
+---
+
+### For **Text Generation**:
+- **Embed 3 English** (AWS): Best text generation accuracy (0.956) and very fast (5 ms per token)—perfect for high-accuracy textual applications.
+- **Claude 3.5 Sonnet v2** (Google Cloud): Highly accurate (0.93) and lightning-fast (0.7 ms per token)—great for real-time text generation.  
+- **Command R+** (AWS): High accuracy (0.877) and balanced speed (9.3 ms per token)—ideal for efficient text generation workflows.  
+
+---
+
+### For **Image Generation**:
+- **Imagen 4 Ultra** (Google Cloud): Best-in-class image generation accuracy (0.95) and very fast rendering (1500 ms per image)—great for high-quality visuals.  
+- **Stable Diffusion 3 Large** (AWS): Great accuracy (0.87) and reasonable speed (3.96 sec per image)—versatile for generating stable, detailed imagery.
+
+---
+
+### Additional Note:
+If needing **Audio or Video** generation, consider:  
+- **GPT-4o-Audio-Preview** (Azure OpenAI): Near-perfect audio accuracy (0.948) and very fast (9.7 ms per token).  
+- **Luma Ray2** (AWS): High video generation production quality (accuracy 0.887).  
+
+These models cater to a range of user requirements spanning text, audio, visual, and multimodal tasks.
+2025-07-11 17:58:24,470 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-11 17:58:29,671 - INFO - ✅ Recommended models:
+Sure! Based on the provided dataset, here are the **top 4–5 models** suitable for the user's requirement, considering models with both **multitask capabilities** and **high speed/accuracy** across relevant features:
+
+### **Multimodal Models or Multitask Capabilities**
+- **Gemini 1.5 Flash**: (Sr. No. 1) Multimodal support and fast processing at **6.1 ms per token** with a good accuracy of **0.789**, making it suitable for diverse use cases.
+- **Pixtral Large (25.02)**: (Sr. No. 97) Delivers **multimodal support** with a balanced speed of **15.8 ms per token** and above-average accuracy of **0.78**, ideal for text + image tasks.
+- **Claude Sonnet 4**: (Sr. No. 21) Multimodal capability with **20-25 ms per token** and modest accuracy (**0.73**), catering to both text and image multitasks.
+
+### **Text Generation Models**
+- **Claude 3.5 Sonnet v2**: (Sr. No. 24) High-performing text generation model with ultra-fast speed (**0.7 ms per token**) and strong accuracy (**0.93**).
+- **Command R+**: (Sr. No. 79) Text generation with high accuracy (**0.877**) and efficient processing speed (**9.3 ms per token**), making it ideal for quality text outputs.
+- **GPT-4o-Transcribe**: (Sr. No. 50) Combines excellent accuracy (**0.85**) with moderate speed (**12.05 ms per token**) for robust text processing.
+
+### **Image Generation Models**
+- **Imagen 4 Ultra**: (Sr. No. 3) Highly accurate (**0.95**) image generation at a fast speed of **1500 ms per image**, suitable for any scenarios requiring premium visuals.
+- **Image 4**: (Sr. No. 4) High accuracy (**0.9**) with a moderate image generation time of **4000 ms per image**, ideal for creating high-quality visuals.
+
+Let me know if you'd like me to narrow it down further based on any specific use case or feature priority!
+2025-07-11 18:10:25,869 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-11 18:10:33,354 - INFO - ✅ Recommended models:
+Sure! Based on the dataset, here are the **top 4–5 models** best suited for your **multi-tasking or specified requirements**:
+
+### If the requirement is **Text Generation**:
+- **Claude 3.5 Sonnet v2 (Azure)**: Offers high accuracy (0.93) with extremely low latency (0.7 ms per token), making it efficient for quick and accurate text generation.
+- **Llama 3.3 Instruct (70B) (AWS)**: Strikes a great balance with a strong accuracy (0.87) and fast speed (3.6 ms per token) for large-scale text tasks.
+- **DeepSeek-R1 (AWS)**: Notable for high accuracy (0.908) and reliable speed (9 ms per token), making it ideal for nuanced text generation tasks.
+- **Embed 3 English (AWS)**: Exceptional accuracy (0.956) and low latency (5 ms per token), perfect for embedding or information-heavy text tasks.
+
+---
+
+### If the requirement is **Image Generation**:
+- **Imagen 4 Ultra (Google Cloud)**: Provides outstanding accuracy (0.95) and very low latency (1500 ms per image), making it the top choice for generating high-quality images.
+- **Stable Diffusion 3 Large (AWS)**: Balances accuracy (0.87) with competitive generation speed (3.96 sec per image), ideal for detailed image production.
+- **Imagen 4 (Google Cloud)**: Ensures reliability with high accuracy (0.9) and fast image generation (4000 ms per image).
+
+---
+
+### If the requirement is **Multimodal Capabilities**:
+- **Gemini 1.5 Flash (Google Cloud)**: Offers multimodal expertise with speedy performance (6.1 ms per token) and high accuracy (0.789), suitable for handling diverse input types.
+- **Claude Sonnet 4 (Google Cloud)**: A good multimodal option (accuracy 0.73) for text and other topics requiring multimodal capabilities.
+
+---
+
+### If the requirement spans **Specialized Tasks (e.g., Music or Audio)**:
+- **Lyria 2 (Google Cloud)**: Excellent for music generation tasks with near-perfect accuracy (0.89) at efficient speeds (30 ms per token).
+- **GPT-4o-Audio-Preview (Azure)**: Specialized for audio-related tasks with stellar accuracy (0.948) and low token latency (9.7 ms per token).
+
+### Summary:
+For **text**, Claude 3.5 Sonnet v2 and Llama 3.3 Instruct are leading. For **image**, Imagen 4 Ultra stands out. If you need **multimodal** flexibility, Gemini 1.5 Flash is versatile and effective!
+2025-07-11 18:12:25,423 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-11 18:12:28,929 - INFO - ✅ Recommended models:
+To recommend the most suitable models for the user's requirements, I will focus on selecting highly accurate and fast-performing models from different features or multi-capability tasks. Here's a list of 4–5 top models:
+
+### **Selected Models**
+1. **Claude 3.5 Sonnet v2**
+   - High accuracy (0.93) and ultra-fast text generation speed of 0.7 ms per token make it ideal for general-purpose text tasks.
+
+2. **Imagen 4 Ultra**
+   - Top-tier performance in image generation with an impressive accuracy of 0.95 and one of the fastest speeds at 1500 ms per image.
+
+3. **Veo 3**
+   - A strong multi-capability model for video and audio generation, offering excellent accuracy (0.91) with very fast performance (1ms per token).
+
+4. **Gemini Embedding**
+   - Provides outstanding embedding capabilities for text input with 0.94 accuracy and 3 ms per token speed, facilitating text-related NLP tasks.
+
+5. **GPT-4o-Mini-Audio-Preview**
+   - Excels in audio generation with nearly perfect accuracy (0.95) and responsive 9.7 ms per token processing speed, ideal for creating or transcribing audio.
+
+If the requirement is explicitly multimodal (e.g., combining tasks like text, video, and image generation), **Veo 3** and **Gemini Embedding** are preferred because of their versatile capabilities.
+2025-07-12 10:25:22,780 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 10:25:22,819 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 10:25:27,095 - INFO - ✅ Recommended models:
+Here are the top selected AI models based on different requirements for multiple tasks:
+
+### **Text Generation**:
+- **Claude 3 Opus**: Exceptionally high accuracy (94%) and ultra-fast speed (0.24 ms per token), making it ideal for critical text generation tasks.
+- **GPT-4.1**: High efficiency (10.02 ms per token) and accuracy (0.87), suitable for generating complex and detailed text.
+- **Embed 3 English**: Superior accuracy (95.6%) with decent speed (5 ms per token), making it a reliable choice for high-quality text outputs.
+- **Jurassic-2 Ultra**: High accuracy (0.873) and relatively low latency (16.7 ms per token), good for more nuanced text-based tasks.
+
+---
+
+### **Image Generation**:
+- **Imagen 4 Ultra**: Best-in-class accuracy (95%) and excellent speed (1500ms per image), suitable for high-quality image rendering tasks.
+- **Stable Diffusion 3 Large**: Impressive tradeoff between speed (3.96 seconds/image) and accuracy (87%), ideal for versatile image generation needs.
+
+---
+
+### **Multimodal**:
+- **Gemini 2.5 Flash**: Very high accuracy (94%) and ultra-fast processing (3 ms per token), making it ideal for multimodal embeddings or analysis tasks.
+- **Pixtral Large (25.02)**: Reliable accuracy (78%) for multimodal tasks with a reasonable speed of 15.8 ms per token.
+
+---
+
+### **Specialty Tasks**:
+- **Veo 3**: Accurate (91%) and fast (1 ms per token), excellent for both video and audio generation tasks.
+- **GPT-4o-Audio-Preview**: Very high accuracy (94.8%) for audio generation, with strong performance in speed (9.7 ms per token). 
+
+Let me know if you have additional preferences!
+2025-07-12 10:25:27,262 - INFO - ✅ Recommended models:
+Here are the top 4–5 models selected based on your requirements:
+
+### **Text Generation Models**:
+- **Claude 3 Opus (Sr. No. 27)**:  
+  Extremely fast (0.24 ms/token) with top-tier accuracy (0.94), ideal for high-performance text generation needs.  
+- **GPT-4.1 (Sr. No. 39)**:  
+  Delivers balanced performance with excellent accuracy (0.87) at a competitive speed (10.02 ms/token).  
+- **DeepSeek-R1 (Sr. No. 83)**:  
+  High accuracy (0.908) combined with strong speed performance (9 ms/token).  
+- **Embed 3 English (Sr. No. 81)**:  
+  Outstanding accuracy (0.956) for text generation and embeddings tasks, making it excellent for multilingual or contextual analysis.  
+- **Claude 3.5 Sonnet v2 (Sr. No. 24)**:  
+  High accuracy (0.93) with fast token generation (0.7 ms), perfect for creative or narrative-based tasks.
+
+### **Image Generation Models**:
+- **Imagen 4 Ultra (Sr. No. 3)**:  
+  Superior accuracy (0.95) combined with fast image generation speed (1500 ms/image).  
+- **Stable Diffusion 3 Large (Sr. No. 100)**:  
+  Balanced accuracy (0.87) and speed (3.96 sec/image), good for high-quality image applications.  
+- **Imagen 4 (Sr. No. 4)**:  
+  High accuracy (0.9), reliable and versatile for diverse image generation needs.
+
+### **Multimodal Models**:
+- **Gemini 1.5 Flash (Sr. No. 1)**:  
+  Combines versatile multimodal capabilities with strong performance (6.1 ms/token, accuracy 0.789).
+
+These models cater to text, image, and multimodal tasks efficiently depending on your precise requirements.
+2025-07-12 11:38:33,200 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 11:38:37,081 - INFO - ✅ Recommended models:
+Here are the top 4–5 models suitable for text generation based on the user requirement:
+
+- **Claude 3 Opus (Sr. No. 27)**  
+  - Ultra-fast (0.24 ms per token) and highly accurate (0.94), making it ideal for high-throughput text generation tasks.
+
+- **GPT-4.1 (Sr. No. 39)**  
+  - Offers excellent performance with high accuracy (0.87) and fast response (10.02 ms per token), suitable for general text generation needs.
+
+- **Embed 3 English (Sr. No. 81)**  
+  - Exceptional accuracy (0.956) with a reasonable speed (5 ms per token), ideal for precise text output in English.
+
+- **Command R+ (Sr. No. 79)**  
+  - A balanced choice with strong accuracy (0.877) and fast speed (9.3 ms per token), suitable for varied text generation tasks.
+
+- **GPT-4o-Mini-Realtime-Preview (Sr. No. 54)**  
+  - Reliable performance with high accuracy (0.89) and moderate speed (12.4 ms per token), offering robust text generation capabilities.
+2025-07-12 11:39:20,585 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 11:39:23,290 - INFO - ✅ Recommended models:
+### Suggested Models:
+- **GPT-4.1 (Azure OpenAI)**  
+  High text generation accuracy (0.87) with low latency (10.02 ms per token), suitable for efficient and accurate tasks.
+
+- **Claude 3 Opus (Google Cloud)**  
+  Exceptional accuracy (0.94) and lightning-fast processing (0.24 ms per token), making it ideal for text generation.
+
+- **Imagen 4 Ultra (Google Cloud)**  
+  Top image generation accuracy (0.95) and fastest image speed (1500 ms per image), perfect for high-quality visuals.
+
+- **Llama 3.2 Instruct (90B) (AWS)**  
+  Strong balance of accuracy (0.87) and reasonable speed (8.2 ms per token), ensuring robust text generation performance.
+
+- **Stable Diffusion 3 Large (AWS)**  
+  High image generation accuracy (0.87) with moderate speed (3.96 sec per image), suitable for creative outputs.
+2025-07-12 11:54:47,965 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 11:54:52,332 - INFO - ✅ Recommended models:
+Here are the top 4–5 models suitable for text summarization based on speed and accuracy:
+
+- **Claude 3 Opus (Sr. No. 27)**  
+  *Reason*: Exceptional accuracy (0.94) and blazing speed (0.24 ms per token), perfect for high-quality text summarization.
+
+- **GPT-4.1 (Sr. No. 39)**  
+  *Reason*: High accuracy (0.87) with decent performance (10.02 ms per token), ideal for reliable text generation tasks.
+
+- **DeepSeek-R1 (Sr. No. 83)**  
+  *Reason*: Excellent balance of accuracy (0.908) and efficiency (9 ms per token) for precise summarization tasks.
+
+- **Claude 3.5 Sonnet v2 (Sr. No. 24)**  
+  *Reason*: Near-elite accuracy (0.93) with good performance (0.7 ms per token), ensuring high-quality summaries.
+
+- **GPT-4.5-Preview (Sr. No. 45)**  
+  *Reason*: Strong accuracy (0.89) with a reasonable speed (13.2 ms per token), suitable for versatile summarization tasks. 
+
+These models offer the best tradeoff between precision and speed for summarization.
+2025-07-12 11:57:34,543 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 11:57:37,212 - INFO - ✅ Recommended models:
+Based on your need for **data analysis**, the following models focus on **text generation**, which can be used for analyzing and generating insights from data in various forms:
+
+### Top Model Recommendations for Data Analysis:
+1. **Claude 3 Opus (Google Cloud)**  
+   - High **accuracy (0.94)** and fastest **speed (0.24 ms per token)** among text generation models, making it ideal for rapid and reliable analysis.
+
+2. **DeepSeek-R1 (AWS)**  
+   - Exceptional **accuracy (0.908)** with **balanced speed (9 ms per token)** for detailed and real-time text analysis tasks.
+
+3. **Mistral OCR (25.05) (Google Cloud)**  
+   - Excellent **accuracy (0.89)** and incredibly fast **speed (0.2 ms per token)**, perfect for processing large amounts of text in data analysis.
+
+4. **GPT-4o-Audio-Preview (Azure OpenAI)**  
+   - Remarkable **accuracy (0.948)** and versatility for **text data analysis**, combined with audio processing capabilities if needed.
+
+5. **GPT-4.1 (Azure OpenAI)**  
+   - Offers very high **accuracy (0.87)** and efficient **speed (10.02 ms per token)**, making it suitable for in-depth data insights and summaries.
+
+These models are tailored for efficient and accurate text generation, enabling powerful data analysis capabilities.
+2025-07-12 12:10:49,206 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:10:52,158 - INFO - ✅ Recommended models:
+Here are the top models suitable for audio generation based on the user's requirement:
+
+- **GPT-4o-Audio-Preview (Azure OpenAI)**  
+  Accuracy of 94.8% and speed of 9.7 ms per token make this model highly efficient for audio generation tasks.
+
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+  Exceptional accuracy of 95% with a fast processing speed of 10 ms per token, making it one of the best choices for audio-related tasks.
+
+- **Lyria 2 (Google Cloud)**  
+  Specializes in music generation with an accuracy of 89%, making it ideal for audio-related creative tasks.
+
+- **Veo 3 (Google Cloud)**  
+  Multimodal capabilities with a focus on video and audio generation, offering high accuracy of 91% and excellent versatility.
+2025-07-12 12:13:28,080 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:13:31,043 - INFO - ✅ Recommended models:
+Here are the top 4–5 image generation models based on the user's requirement:
+
+- **Imagen 4 Ultra** (Google Cloud)  
+  *Reason:* Offers the fastest speed (1500ms per image) alongside the highest accuracy (95%) for image generation.  
+
+- **Imagen 4** (Google Cloud)  
+  *Reason:* High accuracy (90%) with relatively fast image generation speed (4000 ms per image).  
+
+- **Stable Diffusion 3 Large** (AWS)  
+  *Reason:* Excellent balance of speed (3.96 sec per image) and high accuracy (87%) for image generation.  
+
+- **Stable Image Core** (AWS)  
+  *Reason:* Competitive speed (3.84 sec per image) and good accuracy (78%) for image generation, optimized for cloud hosting.  
+
+- **Stable Diffusion 3.5 Large** (AWS)  
+  *Reason:* Reasonable speed (3.74–5.56 sec per image) with decent accuracy (77%) for varied image generation tasks.  
+2025-07-12 12:18:42,436 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:18:45,019 - INFO - ✅ Recommended models:
+Here are the top 4-5 models suitable for video generation based on the user's requirement:
+
+- **Luma Ray2**  
+   - Specialized in video generation, producing high-quality 5-10 second videos within 45-120 seconds and boasts an accuracy of 88.7%.
+
+- **Veo 3**  
+   - Offers robust video and audio generation capabilities, operating at high efficiency (1 ms per token) with a solid accuracy of 91%.
+
+For broader creative tasks involving multimodal capabilities (including video when extended):
+
+- **Gemini 1.5 Flash**  
+   - A multimodal model, operable across creative domains, making it versatile with good accuracy (78.9%).
+
+
+2025-07-12 12:19:39,756 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:19:42,964 - INFO - ✅ Recommended models:
+Here are the top 5 models for your text generation requirement based on their speed and accuracy:
+
+- **Claude 3 Opus (Google Cloud)**  
+  *Reason:* Highest accuracy (0.94) with blazing speed (0.24 ms per token), making it the top performer for text generation needs.
+
+- **Embed 3 English (AWS)**  
+  *Reason:* Exceptional accuracy (0.956) and fast processing speed (5 ms per token), ideal for highly precise text generation tasks.
+
+- **GPT-4.1 (Azure OpenAI)**  
+  *Reason:* Balanced accuracy (0.87) and speed (10.02 ms per token), suitable for a wide range of text generation use cases.
+
+- **DeepSeek-R1 (AWS)**  
+  *Reason:* High accuracy (0.908) with a decent speed (9 ms per token), making it another reliable choice.
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  *Reason:* Impressive accuracy (0.93) with fast processing speed (0.7 ms per token), perfect for real-time high-quality text generation.
+2025-07-12 12:38:55,585 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:38:58,909 - INFO - ✅ Recommended models:
+Here are the top 4–5 models suitable for text summarization based on accuracy and speed:
+
+- **Claude 3 Opus**  
+  - Offers the highest accuracy (0.94) with an extremely fast speed (0.24 ms per token) for reliable text generation.
+
+- **Embed 3 English**  
+  - Excellent accuracy (0.956) with fast processing (5 ms per token), making it highly suitable for summarization tasks.
+
+- **GPT-4.1**  
+  - High accuracy (0.87) combined with relatively quick processing (10.02 ms per token) for detailed and effective summarization.
+
+- **Mistral Small 3.1 (25.03)**  
+  - Strong accuracy (0.89) with reasonable speed (6.7 ms per token), balancing quality and performance.
+
+- **GPT-4o-Mini-Realtime-Preview**  
+  - Highly accurate (0.89) and reasonably fast (12.4 ms per token), well-suited for real-time summarization.
+
+If you'd like alternatives optimized for other specific needs, please let me know!
+2025-07-12 12:50:56,364 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 12:50:58,143 - INFO - ✅ Recommended models:
+Here are the top models for video generation based on the user's requirement for accuracy and speed:
+
+- **Imagen 4 Ultra**  
+  Best-in-class accuracy (95%) for image/video generation with fastest speed (1500ms per image). Highly optimized for precision and performance.
+
+- **Veo 3**  
+  Provides video and audio generation with excellent accuracy (91%) and ultra-fast processing speed (1 ms per token). Ideal for combined video/audio tasks.
+
+- **Luma Ray2**  
+  Specifically designed for video generation; fast processing (45–120 sec for 5–10 sec video) with good accuracy (88.7%).
+
+These models are tailored for accurate, fast video generation needs.
+2025-07-12 13:34:28,582 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 13:34:32,269 - INFO - ✅ Recommended models:
+Based on your requirement to quickly summarize legal documents, here are the top 4–5 most suitable models with high accuracy and fast processing speed for text generation:
+
+- **Claude 3 Opus (Google Cloud)**  
+  *Reason*: Excellent accuracy (0.94) and fastest processing speed (0.24 ms per token) for legal text summarization.
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  *Reason*: High accuracy (0.93) with very low latency (0.7 ms per token), making it ideal for detailed and structured summaries.
+
+- **GPT-4o-Mini-0718 (Azure OpenAI)**  
+  *Reason*: Strong accuracy (0.88) and reasonable speed (12.03 ms per token), suitable for text generation tasks like summaries.
+
+- **GPT-4.1 (Azure OpenAI)**  
+  *Reason*: High accuracy (0.87) and lightning-fast text generation (10.02 ms per token), ideal for workflow efficiency.
+
+- **Llama 3 Instruct (70B) (AWS)**  
+  *Reason*: Excellent accuracy (0.87) with moderate speed (10.2 ms per token), offering balanced performance for summarizing tasks. 
+
+These models rank high for their accuracy, speed, and reliability for your legal summarization needs.
+2025-07-12 14:14:56,171 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 14:14:59,328 - INFO - ✅ Recommended models:
+For legal video analysis, the task likely requires video understanding and possibly text generation for transcription or summarization. Here's a selection of suitable models that meet speed and accuracy requirements:
+
+- **Veo 3** (Google Cloud): Specializes in video + audio generation with fast speed (1 ms per token) and high accuracy (0.91), suitable for analyzing legal videos.
+- **Luma Ray2** (AWS): Capable of generating video in reasonable time (45-120 sec for 5-10 sec video) with solid accuracy (0.887), helpful for video-related tasks.
+- **GPT-4o-Mini-Transcribe** (Azure OpenAI): High text generation accuracy (0.88) with moderate speed (11.7 ms per token), ideal for video transcription and analysis.
+- **Command R+** (AWS): Provides accurate text generation (0.877) with good speed (9.3 ms per token), useful for generating insights from legal videos.
+- **Claude Opus 4** (Google Cloud): High accuracy (0.91) and moderate text generation speed (8 ms per token), suitable for summarizing and analyzing legal video content.
+2025-07-12 14:34:43,501 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 14:34:46,346 - INFO - ✅ Recommended models:
+Based on the requirement for a **language translation model for real-time chat**, the following models are suitable:
+
+- **LLM**: Specifically designed for text translation with 8 ms per token speed and 0.86 accuracy, making it apt for real-time applications.
+- **Embed 3 Multilingual**: Focused on multilingual text generation with 5 ms per token speed, useful for swift real-time translations in various languages.
+- **GPT-4.1**: Offers a fast speed of 10.02 ms per token and high accuracy (0.87), suitable for generating high-quality translated text quickly.
+- **GPT-4o-Mini-Transcribe**: Provides 11.7 ms per token and 0.88 accuracy, balancing speed and quality for text generation, including translations.
+- **Command R+**: Delivers 9.3 ms per token and 0.877 accuracy, offering excellent performance for real-time, multilingual settings. 
+
+These models focus on real-time capabilities and are optimized for text processing tasks related to translation.
+2025-07-12 14:42:13,723 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 14:42:16,403 - INFO - ✅ Recommended models:
+Here are the top 4–5 recommended models for your retail product recommendation task focused on high accuracy:
+
+- **Claude 3 Opus** (Google Cloud)  
+  - Extremely high accuracy (94%), with fast text generation, making it ideal for precise product suggestions.
+
+- **GPT-4.1** (Azure OpenAI)  
+  - High accuracy (87%) combined with versatile and reliable text generation for recommendation tasks.
+
+- **DeepSeek-R1** (AWS)  
+  - Accuracy of 90.8% ensures very precise outputs for complex recommendation needs.
+
+- **Claude 3.5 Sonnet v2** (Google Cloud)  
+  - High accuracy (93%) and excellent performance for generating tailored product recommendations.
+
+- **GPT-4o-Micro** (Azure OpenAI)  
+  - High accuracy (89%) with impressive performance tuned for real-time text generation.
+2025-07-12 14:49:31,148 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 14:49:34,024 - INFO - ✅ Recommended models:
+For your requirement of an **image classification model for medical images**, the closest category in the dataset is **image generation**, as image classification is not explicitly listed. Here are **top models** and reasons:
+
+- **Imagen 4 Ultra**  
+  - Most accurate image generation model (95%) with fast speed (1500ms/image), ideal for medical images requiring precision.
+
+- **Imagen 4**  
+  - High accuracy (90%) paired with reasonable speed (4000ms/image), ensuring better image analysis consistency.
+
+- **Stable Diffusion 3 Large**  
+  - Provides high accuracy (87%) with moderate speed (3.96 sec/image), suitable for tasks requiring detailed image inspection.
+
+- **Stable Diffusion 3.5 Large**  
+  - Competitive in accuracy (77%) but offers quicker speeds (3.74-5.56 sec/image), might handle classification insights faster.
+
+- **Imagen 3 Fast**  
+  - With speeds of 4500ms/image and accuracy range (75%-77%), this is a step down but still viable for medical image tasks.  
+
+Unfortunately, no explicit "image classification" features are listed; consider these models for generating or analyzing medical images.
+2025-07-12 14:57:20,065 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 14:57:23,373 - INFO - ✅ Recommended models:
+Here are the top models suitable for vehicle detection and available on AWS cloud:
+
+- **Stable Diffusion 3 Large**  
+  - *Reason*: Provides high-quality image generation (3.96 sec per image) with an accuracy of 87%, making it reliable for generating visual data relevant to vehicles.
+
+- **Stable Diffusion 3.5 Large**  
+  - *Reason*: Generates images quickly (3.74–5.56 sec per image) with 77% accuracy for visual tasks on AWS.
+
+- **Stable Image Core**  
+  - *Reason*: Specialized in image generation on AWS with a quick generation time (3.84 sec per image) and moderate accuracy (78%).
+
+- **DeepSeek-R1**  
+  - *Reason*: High-accuracy (90.8%) text generation model on AWS, useful if text-based inputs or annotations are needed alongside vehicle detection.
+
+- **Llama 3.2 Instruct (90B)**  
+  - *Reason*: High accuracy (87%) and fast performance (8.2 ms per token) for text-based support tasks related to image interpretation for vehicle detection use cases.  
+
+These models are recommended based on their features and AWS hosting compatibility for visual or text-related tasks.
+2025-07-12 15:09:23,477 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 15:09:26,490 - INFO - ✅ Recommended models:
+Here are the top 5 suitable models for **text summarization** based on high accuracy and suitability for the task:
+
+- **Claude 3 Opus (Accuracy: 0.94, Speed: 0.24 ms/token)**  
+  Offers exceptional accuracy and very fast token processing, making it ideal for detailed and reliable text summarization.
+
+- **Gemini 2.5 Flash (Accuracy: 0.94, Speed: 3 ms/token)**  
+  Same high accuracy with excellent speed, ensuring efficient summarization tasks.
+
+- **GPT-4.1 (Accuracy: 0.87, Speed: 10.02 ms/token)**  
+  Reliable text generation capabilities from Azure, with strong performance metrics suitable for summarization.
+
+- **DeepSeek-R1 (Accuracy: 0.908, Speed: 9 ms/token)**  
+  Combines high accuracy and above-average speed, making it a dependable choice for summarization.
+
+- **GPT-4o-Mini-0718 (Accuracy: 0.88, Speed: 12.03 ms/token)**  
+  Offers solid accuracy and decent speed, a practical general-purpose option for text generation tasks.
+2025-07-12 16:21:36,023 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 16:21:39,337 - INFO - ✅ Recommended models:
+Here are the top models for chatbot development that can integrate with WhatsApp, based on text generation capability, speed, and accuracy:
+
+- **Claude 3 Opus (Google Cloud)**  
+  ● Extremely fast (0.24 ms per token) and highly accurate (94%), making it reliable for real-time chat responses.
+
+- **GPT-4.1 (Azure OpenAI)**  
+  ● High accuracy (87%) with decent speed (10.02 ms per token), ideal for robust chatbot functionalities.
+
+- **DeepSeek-R1 (AWS)**  
+  ● Competitive accuracy (90.8%) and reasonable speed (9 ms per token), suitable for versatile chatbot applications.
+
+- **GPT-4o-Mini-0718 (Azure OpenAI)**  
+  ● Balanced speed (12.03 ms per token) and high accuracy (88%), offering efficient and accurate response generation.
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  ● Extremely accurate (93%) and slightly slower (0.7 ms per token), excelling at natural language conversation quality. 
+
+These models provide strong text generation capabilities and would work well in chatbot integration scenarios such as WhatsApp.
+2025-07-12 16:27:46,368 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 16:27:48,408 - INFO - ✅ Recommended models:
+Here are the top models suitable for sentiment analysis of customer feedback in Hindi from your dataset:
+
+- **Claude 3 Opus**  
+  - High accuracy (0.94) and fast speed (0.24 ms per token), ideal for efficient sentiment analysis.  
+
+- **DeepSeek-R1**  
+  - Excellent accuracy (0.908) and moderate speed (9 ms per token), making it highly reliable for diverse text-processing tasks.  
+
+- **GPT-4.1**  
+  - Robust performance with high accuracy (0.87) and fast processing (10.02 ms per token), widely used for text-based tasks including sentiment analysis.  
+
+- **Jurassic-2 Ultra**  
+  - High accuracy (0.873) and reasonable speed (16.7 ms per token), capable of processing complex text analysis effectively.  
+
+- **Claude 3.5 Sonnet v2**  
+  - Impressive accuracy (0.93) and efficient speed (0.7 ms per token), well-suited for sentiment tasks requiring nuanced understanding of text.  
+
+These models strike a good balance between accuracy, speed, and the ability to process textual feedback in Hindi effectively.
+2025-07-12 17:05:02,567 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:05:05,334 - INFO - ✅ Recommended models:
+Here are the top 5 models for sentiment analysis in Hindi, selected based on high accuracy and their text generation capabilities:
+
+- **Claude 3 Opus (Google Cloud)**  
+  - High accuracy (94%) with very fast processing (0.24 ms per token) for text analysis tasks.
+
+- **Embeddings for Text (Excluding Gemini Embedding) (Google Cloud)**  
+  - High accuracy (89%) and well-suited for embedding multilingual text, including Hindi, for sentiment analysis.
+
+- **GPT-4.1 (Azure OpenAI)**  
+  - Strong accuracy (87%) with excellent support for conversational and textual analysis.
+
+- **Llama 3.1 Instruct (405B) (AWS)**  
+  - Good accuracy (84%) and optimized for text generation tasks, including regional language use cases.
+
+- **Command R+ (AWS)**  
+  - High accuracy (87.7%) and moderate speed (9.3 ms per token), suitable for precise sentiment analysis.
+2025-07-12 17:09:25,216 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:09:27,234 - INFO - ✅ Recommended models:
+Here are the recommendations for locally running AI models based on your requirement:
+
+- **Imagen 2, Imagen**  
+  *Reason*: This model supports image generation and explicitly has "local" hosting capability, making it suitable for personal laptop use.
+
+- **Jamba 1.5 Large**  
+  *Reason*: Offers long-context text generation with cloud and *local* hosting options for versatility in usage.
+
+These are the only models from the dataset tagged for local deployment. If additional features are required, cloud-only models can be revisited. Let me know if you'd like further filtering.
+2025-07-12 17:26:33,386 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:26:35,078 - INFO - ✅ Recommended models:
+The following models are suitable for your requirement of running locally on a laptop:
+
+- **Imagen 2, Imagen**  
+  *Image generation model that supports local hosting*, making it ideal for offline use.  
+
+- **Jamba 1.5 Large**  
+  *Text generation model with support for both cloud and local hosting*, ensuring flexibility for local deployments.  
+
+For exclusively local models, limited choices are available in the dataset.
+
+2025-07-12 17:38:29,779 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:38:33,841 - INFO - ✅ Recommended models:
+The user needs a **face recognition model** for office attendance systems. None of the models listed directly specify "face recognition" or related features (e.g., facial detection or biometric verification). However, I will highlight the models with image-related capabilities that may be repurposed for facial recognition, image processing, or biometrics.
+
+### Suitable Models for User’s Requirement:
+- **Imagen 4 Ultra** (`Sr. No.: 3`): Offers the highest accuracy (95%) for image generation with fast processing (1500 ms per image), suitable for processing facial images reliably.
+- **Stable Diffusion 3 Large** (`Sr. No.: 100`): High accuracy (87%) in image generation with reasonable speed (3.96 sec per image), potentially adaptable for facial recognition tasks.
+- **Stable Image Core** (`Sr. No.: 99`): Provides good accuracy (78%) and consistent speed (3.84 sec per image), suitable for stable image processing applications.
+- **Imagen 4** (`Sr. No.: 4`): High accuracy (90%) for image generation tasks, delivering clear and reliable image outputs for facial recognition needs.
+- **Stable Diffusion 3.5 Large** (`Sr. No.: 98`): Accuracy of 77% and manageable speed (3.74–5.56 sec per image), capable of handling office-level image tasks effectively.
+
+### Reason for Selection:
+These models primarily focus on image-related tasks, which can potentially be fine-tuned or repurposed for facial recognition in office attendance systems. If you specifically need models tailored for biometric or facial detection, you may need to explore datasets not included here.
+2025-07-12 17:49:11,179 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:49:13,337 - INFO - ✅ Recommended models:
+Here are the top models suitable for **video classification of sports footage detection** based on the dataset provided:
+
+- **Veo 3**
+  - Offers **video + audio generation** capabilities with high accuracy (0.91) and fast speed (1 ms per token), making it ideal for sports video classification tasks with audio features.
+
+- **Luma Ray2**
+  - Specializes in **video generation** with an accuracy of 0.887, ideal for analyzing and generating sports footage visuals.
+
+- **Command R+**
+  - Provides text generation capabilities tailored for annotation and metadata extraction of video contexts, with strong accuracy (0.877) and viable speed.
+
+- **Pixtral Large (25.02)**
+  - Multimodal functionality that can handle video-related tasks with decent accuracy (0.78), suitable for sports footage classification involving diverse data types.
+
+- **Veo 2**
+  - High accuracy (0.92) in **advanced controls** for video analysis tasks, optimized for sports events segmentation and classification.
+2025-07-12 17:53:43,293 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 17:53:45,641 - INFO - ✅ Recommended models:
+Here are the best models for voice-to-text transcription under ₹1500/month, based on your requirement:
+
+- **GPT-4o-Mini-Audio-Preview** (Sr. No. 56): Affordable audio-focused model with robust features and high accuracy (95%).  
+- **GPT-4o-Audio-Preview** (Sr. No. 55): Superior audio processing capabilities and near-perfect transcription accuracy (94.8%).  
+- **GPT-4o-Mini-Transcribe** (Sr. No. 51): Optimized for transcription tasks with excellent accuracy (88%) and relatively fast processing speeds.  
+- **Command R+** (Sr. No. 79): Cost-effective model offering audio transcription accuracy with a good balance between speed and performance (87.7%).  
+- **Llama 3.2 Instruct (90B)** (Sr. No. 91): High accuracy (87%) with low latency for efficient transcription tasks in a compliant price range.
+
+These models align directly with your needs for voice-to-text transcription, combining affordability and excellent performance.
+2025-07-12 18:00:20,931 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 18:00:23,741 - INFO - ✅ Recommended models:
+Here are the top 5 models selected based on document classification needs for legal case files and their high performance in text generation:
+
+### Selected Models:
+- **Claude 3 Opus**  
+  High accuracy (0.94) and extremely fast speed (0.24 ms per token), ideal for processing large text-based legal files efficiently.
+  
+- **GPT-4.1**  
+  Strong accuracy (0.87) and reliable text generation capabilities, suitable for analyzing structured and unstructured legal documents.
+  
+- **DeepSeek-R1**  
+  High accuracy (0.908) and fast speed (9 ms per token), making it well-suited for detailed classification tasks within legal contexts.
+  
+- **Embed 3 English**  
+  Exceptional accuracy (0.956) and fast processing (5 ms per token), great for embedding and classifying legal text for complex case files.
+  
+- **Jurassic-2 Ultra**  
+  Solid accuracy (0.873) and versatility in handling complex legal texts, backed by fast speed (16.7 ms per token).
+
+These models are capable of handling high accuracy classification and text generation tasks tailored to legal case files.
+2025-07-12 18:05:48,559 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 18:05:52,386 - INFO - ✅ Recommended models:
+Based on the user's need for **voice cloning with natural tone reproduction**, none of the listed models explicitly describe voice cloning capabilities. However, models with **audio features**, particularly those with **Audio generation focused features** or adjacent capabilities, may potentially fulfill this need. Below are suggestions:
+
+- **GPT-4o-Audio-Preview (Azure OpenAI)**: Specializes in audio generation, likely suitable for tasks requiring voice cloning and natural tone reproduction, with a high accuracy of 94.8%.
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**: Focused on audio-related tasks, offering fast performance at 10 ms per token and an accuracy of 95%, ideal for natural tone replication.
+- **Llama 3.1 Instruct (8B) (AWS)**: While not explicitly voice-focused, its adaptability in generating text could help supplement components requiring scripted natural tone adjustments.
+- **GPT-4.5-Preview (Azure OpenAI)**: High accuracy (89%) and potential multimodal adaptability may assist in a voice cloning pipeline.
+- **Luma Ray2 (AWS)**: Primarily focused on video generation but with audio included, could support holistic voice cloning or dubbing use cases requiring audiovisual harmony.
+
+If none of these align perfectly, consider specifying models with explicit "Voice Cloning" features.
+2025-07-12 18:13:31,206 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 18:13:34,588 - INFO - ✅ Recommended models:
+Based on the user requirement for recommending news articles based on reading history, the optimal models would focus on accurate and fast text generation. Here are the top 4–5 recommended models from the provided dataset:
+
+- **Claude 3 Opus**: Very high accuracy (0.94) and ultra-fast speed (0.24 ms per token), making it ideal for personalized news recommendations.
+
+- **DeepSeek-R1**: High accuracy (0.908) and reasonably fast (9 ms per token) for generating user-tailored article recommendations.
+
+- **GPT-4o-Mini-Realtime-Preview**: High accuracy (0.89) and good speed (12.4 ms per token), ensuring quality and speed in text generation.
+
+- **Llama 3.3 Instruct (70B)**: High accuracy (0.86) and fast (3.6 ms per token), equipped for dynamic and nuanced recommendations.
+
+- **Jurassic-2 Mid**: Excellent accuracy (0.868) and good speed (12.2 ms per token), making it reliable for content personalization tasks.
+
+These models meet the requirements for personalized and context-aware text generation, balancing accuracy and speed effectively.
+2025-07-12 18:24:06,582 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 18:24:09,691 - INFO - ✅ Recommended models:
+Here are the top 4–5 models suitable for real-time language translation in live phone calls:
+
+- **LLM (Sr. No. 15)**  
+  Reason: Specifically designed for text translation with an excellent speed of 8 ms per token and high accuracy (0.86).
+
+- **GPT-4o-Mini-Transcribe (Sr. No. 51)**  
+  Reason: Offers real-time transcription capabilities with decent speed (11.7 ms per token) and high accuracy (0.88), ideal for live calls.
+
+- **GPT-4o-Mini-TTS (Sr. No. 52)**  
+  Reason: Provides text-to-speech functionality, useful for seamless translation during phone calls, with reasonable speed (11.2 ms per token) and accuracy (0.82).
+
+- **Embed 3 Multilingual (Sr. No. 82)**  
+  Reason: High-speed multilingual capabilities (5 ms per token) for handling diverse language needs, though accuracy is moderate (0.64).
+
+- **Jurassic-2 Mid (Sr. No. 61)**  
+  Reason: Strong text generation model with reliable performance metrics (12.2 ms per token and 0.868 accuracy), suitable for real-time translation tasks in multilingual scenarios.
+2025-07-12 18:30:09,120 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-12 18:30:13,182 - INFO - ✅ Recommended models:
+Here are the top models suitable for your requirement of a whisper-quiet voice command model for use in public spaces, emphasizing speed, accuracy, and audio or text capabilities:
+
+- **GPT-4o-Audio-Preview (Azure OpenAI)**  
+  - Highly accurate audio model (accuracy: 94.8%) with low latency (9.7 ms per token), ideal for public voice commands.
+
+- **GPT-4o-Mini-TTS (Azure OpenAI)**  
+  - Fast and reliable text generation model (accuracy: 88%, speed: 11.2 ms per token), suitable for transcribing and voice tasks in quiet spaces.  
+
+- **Claude 3 Opus (Google Cloud)**  
+  - Ultra-fast text generation (0.24 ms per token) with high accuracy (94%), enabling quick and quiet responses for commands.
+
+- **Command R+ (AWS)**  
+  - Combines speed (9.3 ms per token) and high accuracy (87.7%), making it capable of executing voice commands efficiently.
+
+- **Llama 3.2 Instruct (90B) (AWS)**  
+  - Balanced performance with strong accuracy (87%) and quick response time (8.2 ms per token), ideal for robust command handling.  
+
+Optional Alternative:  
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+  - Excellent audio capabilities with high accuracy (95%) and fast processing (10 ms per token), suitable for supporting public audio interactions.
+2025-07-14 10:19:24,551 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 10:19:26,145 - INFO - ✅ Recommended models:
+From the dataset provided, none of the models listed are specifically designed for offline speech-to-text functionality on Android devices. Most models are hosted on cloud platforms and are tailored more for text generation, image generation, multimodal capabilities, and other tasks requiring connectivity. However, if offline speech-to-text is critical, the most applicable models/frameworks would be outside this list, such as **OpenAI Whisper (Local deployment)** or **Google Speech Services SDK** if tailored for offline use.
+
+If you are looking for models compatible with specific speech technologies offline, here's what might suit your expanded inquiry conversation. Let aboard!
+2025-07-14 11:30:07,865 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 11:30:11,769 - INFO - ✅ Recommended models:
+Here are the top models that may suit the user's requirement for small transformer models for local use in rural clinics:
+
+---
+
+### **Text Generation Models (Local or Fast Options)**
+- **Llama 3.2 Instruct (1B)**: Small size (1B parameters) with good accuracy (0.83), suitable for local deployment.
+- **Llama 3.3 Instruct (70B)**: High accuracy (0.86) for reliable text generation; small version of Llama ideal for offline use.
+- **Command-Light**: Fast performance (7.8 ms per token) with solid accuracy (0.833); works well in constrained environments.
+- **Amazon Nova Micro**: Small and efficient local-text-generation model; moderate accuracy (0.78) but fast speed (5 ms per token).
+
+---
+
+### **Image Generation Models (Local Deployment)**
+- **Imagen 2, Imagen**: Local hosting support for image generation; accuracy (0.72) is acceptable for clinic-related cases.
+- **Imagen 4 Ultra**: High image accuracy (0.95) with moderate speed (1500 ms per image); great for rural diagnostic imaging.
+
+---
+
+These selections prioritize models with local capabilities, smaller sizes, and balanced accuracy for fast and reliable use in rural clinics.
+2025-07-14 11:34:01,686 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 11:34:04,957 - INFO - ✅ Recommended models:
+Based on the requirement for analyzing **receipts (image)** and **customer review (text)**, the most suitable models with **multimodal capabilities** are:
+
+- **Gemini 1.5 Flash**  
+  *Reason:* A multimodal model suitable for handling both text and image input with decent accuracy (0.789) and fast processing speed (6.1 ms per token).
+
+- **Pixtral Large (25.02)**  
+  *Reason:* Multimodal model designed for integrating image and text analysis with reasonable accuracy (0.78) and processing speed (15.8 ms per token).
+
+- **Claude Sonnet 4**  
+  *Reason:* Multimodal capabilities with cloud hosting available (accuracy: 0.73), suitable for tasks involving text-image analysis.
+
+For enhancing text-processing efficiency and accuracy (text generation for reviews), consider augmenting the multimodal models with:
+
+- **GPT-4.1**  
+  *Reason:* Highly accurate (0.87) text generation with fast token processing (10.02 ms per token), perfect for handling customer reviews.
+
+- **GPT-4o-Mini TTS**  
+  *Reason:* Offers strong accuracy (0.82) and efficient text generation, complementing multimodal models when processing textual reviews.
+2025-07-14 11:42:16,518 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 11:42:19,856 - INFO - ✅ Recommended models:
+Here are the top models suitable for analyzing legal documents based on text generation capability and high accuracy:
+
+- **Claude 3 Opus (Google Cloud)**  
+  - Exceptional accuracy (0.94) and ultra-fast speed (0.24 ms per token), ideal for detailed legal document analysis.
+
+- **DeepSeek-R1 (AWS)**  
+  - High accuracy (0.908) and fast processing speed (9 ms per token), suitable for precise legal analysis tasks.
+
+- **GPT-4.1 (Azure OpenAI)**  
+  - Robust accuracy (0.87) and fast speed (10.02 ms per token), optimized for handling complex legal text.
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**  
+  - Excellent accuracy (0.93) and fast performance (0.7 ms per token), perfect for legal reasoning and document parsing.
+
+- **Jurassic-2 Ultra (AWS)**  
+  - High accuracy (0.873) and capable speed (16.7 ms per token), ideal for nuanced legal language comprehension.
+
+These models excel in processing and analyzing complex text scenarios, making them well-suited for legal document analysis workflows.
+2025-07-14 12:19:34,213 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 12:19:40,076 - INFO - ✅ Recommended models:
+Here are the top models suitable for aerial image segmentation for mapping flood zones, based on accuracy and image-generation capabilities:
+
+- **Imagen 4 Ultra**  
+   - High accuracy (95%) with fast generation speed (1500ms per image), making it ideal for precise aerial segmentation.
+
+- **Imagen 4**  
+   - Exceptional accuracy (90%) and efficient processing (4000ms per image), suitable for detailed flood zone mapping.
+
+- **Stable Diffusion 3 Large**  
+   - Good accuracy (87%) with reasonable processing speed (3.96s per image), designed for high-resolution image segmentation.
+
+- **Stable Image Core**  
+   - Reliable accuracy (78%) and processing speed (3.84s per image), providing robust results for flood zone mapping tasks.
+
+- **Stable Diffusion 3.5 Large**  
+   - Decent accuracy (77%) with flexible speed (3.74–5.56s per image), offering affordable and scalable aerial image segmentation.
+
+These models offer cloud hosting for scalability and are specialized in image generation, aligning well with flood zone mapping via aerial imagery segmentation.
+2025-07-14 12:43:27,301 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 12:43:29,869 - INFO - ✅ Recommended models:
+Here are the top 4–5 models suitable for **image analysis** tasks based on the dataset provided:
+
+- **Imagen 4 Ultra**: High accuracy (95%) and very fast generation speed (1500ms per image), making it ideal for precise and efficient image tasks.
+- **Imagen 4**: Excellent accuracy (90%) and relatively fast speed (4000ms per image), suitable for high-quality image generation.
+- **Stable Diffusion 3 Large**: Strong accuracy (87%) and reasonably fast speed (3.96 seconds per image), perfect for versatile image generation tasks.
+- **Stable Image Core**: Good combination of speed (3.84 seconds per image) and accuracy (78%), optimal for stable image analysis in cloud workflows.
+- **Imagen 3 Fast**: Fast generation speed (4500ms per image) with decent accuracy (75-77%), useful for quicker image generation on cloud platforms.
+
+These models excel in image generation with varying trade-offs between speed and accuracy.
+2025-07-14 13:09:48,639 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 13:09:52,777 - INFO - ✅ Recommended models:
+Here are the top chatbot models suited for integration with the WhatsApp Business API, selected for their high accuracy and optimal speed in text generation for conversational tasks:
+
+- **Claude 3 Opus**  
+  - Offers unmatched accuracy (0.94) and ultra-fast speed (0.24 ms per token), ensuring efficient and intelligent chatbot responses.
+
+- **Claude 3.5 Sonnet v2**  
+  - High accuracy (0.93) with excellent speed (0.7 ms per token) makes it ideal for handling dynamic conversational flows reliably.
+
+- **GPT-4.1**  
+  - Exceptional accuracy (0.87) combined with very fast processing time (10.02 ms per token), making it a versatile text generation solution for chatbots.
+
+- **DeepSeek-R1**  
+  - Balances high accuracy (0.908) and good speed (9 ms per token) for reliable and responsive chatbot interactions.
+
+- **Jurassic-2 Mid**  
+  - Strong accuracy (0.868) with reasonable speed (12.2 ms per token), suitable for efficient chatbot functionality.
+
+Let me know if you'd like further details or alternatives!
+2025-07-14 13:41:47,886 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 13:41:51,180 - INFO - ✅ Recommended models:
+Here are the top models suitable for text generation based on the user's requirements:
+
+- **Claude 3 Opus**  
+  Extremely fast (0.24 ms per token) and high accuracy (0.94); ideal for speedy and precise text generation.  
+
+- **GPT-4.1**  
+  High accuracy (0.87) and fast speed (10.02 ms per token); robust and widely adopted for comprehensive text generation tasks.  
+
+- **Claude 3.5 Sonnet v2**  
+  Very high accuracy (0.93) with decent speed (0.7 ms per token); excellent for high-quality text creation.  
+
+- **Embed 3 English**  
+  Exceptional accuracy (0.956) and fast speed (5 ms per token); great for detailed and nuanced text generation.  
+
+- **Jurassic-2 Ultra**  
+  High accuracy (0.873) with competitive speed (16.7 ms per token); strong performer for general-purpose text generation.  
+
+These models strike the best balance between speed and accuracy for high-quality text generation tasks.
+2025-07-14 14:02:53,874 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:02:56,885 - INFO - ✅ Recommended models:
+### Top Models for Text Generation:
+- **Claude 3 Opus**  
+   Exceptional accuracy (0.94) and ultra-fast response time (0.24 ms per token), ideal for high-quality and efficient text generation.  
+
+- **DeepSeek-R1**  
+   High accuracy (0.908) with decent speed (9 ms per token), ensuring reliable and consistent text generation for most applications.  
+
+- **GPT-4o**  
+   Impressive accuracy (0.89) and manageable speed (14.2 ms per token), making it suitable for robust, well-rounded text generation tasks.  
+
+- **GPT-4.1**  
+   High accuracy (0.87) and fast processing (10.02 ms per token), making it a strong contender for high-quality text generation.  
+
+- **Command R+**  
+   High text generation accuracy (0.877) with good speed (9.3 ms per token), offering balanced performance for diverse contexts.  
+
+These models provide a mix of accuracy and speed tailored to text generation requirements.
+2025-07-14 14:07:25,332 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:07:27,791 - INFO - ✅ Recommended models:
+Here are the top 5 models suitable for text generation based on your requirement:
+
+- **Claude 3 Opus**  
+Fastest speed in the dataset (0.24 ms per token) and high accuracy (0.94), ideal for efficient and high-quality text generation.  
+
+- **Embed 3 English**  
+Delivers exceptional accuracy (0.956) with good speed (5 ms per token), suitable for precision-focused text generation tasks.  
+
+- **GPT-4.1**  
+Strong accuracy (0.87) combined with excellent speed (10.02 ms per token), making it a well-balanced option for general text generation.  
+
+- **Jurassic-2 Ultra**  
+High accuracy (0.873) with relatively fast speed (16.7 ms per token), perfect for robust text generation across varied contexts.  
+
+- **Claude 3.5 Sonnet v2**  
+Impressive accuracy (0.93) and fast response (0.7 ms per token), great for quick and reliable text results.  
+2025-07-14 14:09:25,710 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:09:29,568 - INFO - ✅ Recommended models:
+- **Claude 3 Opus (Sr. No. 27)**: Exceptional accuracy (0.94) with very fast processing speed (0.24 ms per token), suitable for generating precise legal text.  
+- **GPT-4.1 (Sr. No. 39)**: High accuracy (0.87), efficient speed, and hosted on Azure, ideal for complex text generation tasks like legal documents.  
+- **Claude 3.5 Sonnet v2 (Sr. No. 24)**: High accuracy (0.93) and excellent performance in text generation, tailored for legal content creation.  
+- **Jurassic-2 Ultra (Sr. No. 62)**: Strong accuracy (0.873) for legal text generation, with consistent performance across AWS cloud hosting.  
+- **Mistral OCR (25.05) (Sr. No. 32)**: High accuracy (0.89) and fast speed (0.2 ms per token), ideal for extracting structured data in legal documents.  
+2025-07-14 14:10:37,886 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:10:41,199 - INFO - ✅ Recommended models:
+Here are the top models suitable for your requirement for **image analysis**:
+
+- **Imagen 4 Ultra** (Google Cloud): Exceptional accuracy at 95% and fastest generation speed of 1500ms per image, ideal for high-precision image tasks.
+
+- **Stable Diffusion 3 Large** (AWS): Balances accuracy (87%) and speed (3.96 seconds per image), making it suitable for detailed image analysis tasks.
+
+- **Imagen 4** (Google Cloud): High accuracy of 90% and decent speed of 4000ms per image, good for image analysis where precision matters.
+
+- **Imagen 3 Fast** (Google Cloud): Reasonably accurate (75-77%) and speedy (4500ms per image), suitable for quick analysis or generation tasks with moderate precision.
+
+- **Stable Diffusion 3.5 Large** (AWS): Moderate accuracy (77%) and variable speed (3.74–5.56 seconds per image), suitable for general-purpose image generation and analysis tasks.
+2025-07-14 14:26:50,078 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:26:53,035 - INFO - ✅ Recommended models:
+Based on the user's requirement for an AWS-hosted model costing less than ₹5000/month, here are the top 4–5 recommendations:
+
+- **Jamba 1.5 Large**: AWS-hosted, reasonably accurate (0.84) with good speed (18.9 ms per token), likely to fit within the budget.
+- **Llama 3.3 Instruct (70B)**: Offers high accuracy (0.86) and fast speed (3.6 ms per token) while being AWS-hosted.
+- **DeepSeek-R1**: High accuracy (0.908) and fast processing (9 ms per token) on AWS cloud.
+- **Amazon Nova Micro**: Moderate accuracy (0.78) and affordable, with decent speed (4.8–5.1 ms per token).
+- **Command**: Strong accuracy (0.855) with good speed (6.4 ms per token), hosted on AWS and budget-friendly.
+
+These models align well with the need for cost-effective AWS-hosted solutions under ₹5000/month.
+2025-07-14 14:36:10,348 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:36:12,932 - INFO - ✅ Recommended models:
+Here are the top models for text generation based on the user's requirements:
+
+- **Claude 3 Opus (Google Cloud)**: Exceptional accuracy (0.94) and extremely fast speed (0.24 ms per token), ideal for high-quality text generation tasks.
+
+- **Claude 3.5 Sonnet v2 (Google Cloud)**: Offers an excellent balance of speed (0.7 ms per token) and accuracy (0.93), making it well-suited for diverse text tasks.
+
+- **DeepSeek-R1 (AWS)**: High accuracy (0.91) with good speed (9 ms per token), a reliable model for accurate text generation.
+
+- **GPT-4o-Audio-Preview (Azure OpenAI)**: Very fast (9.7 ms per token) and top-notch accuracy (0.89), suitable for advanced text generation tasks.
+
+- **Embed 3 English (AWS)**: Outstanding accuracy (0.956) with fast speed (5 ms per token), an ideal choice for precise text content creation. 
+
+These models prioritize accuracy and speed for optimized text generation performance.
+2025-07-14 14:41:37,808 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:41:41,622 - INFO - ✅ Recommended models:
+To detect mosquitoes using AI, models that specialize in **image generation, multimodal, or advanced detection capabilities** are most relevant. Here’s the selection of top-suited models:
+
+### Selected Models:
+- **Imagen 4 Ultra (Google Cloud)**  
+  High-speed image generation (1500ms per image) with **95% accuracy** makes it ideal for detailed visual detection tasks.
+
+- **Stable Diffusion 3 Large (AWS)**  
+  Accurate image generation model (0.87) with a reasonable generation time (3.96 sec per image), suitable for mosquito image analysis.
+
+- **Gemini 1.5 Flash (Google Cloud)**  
+  A **multimodal model** with **0.789 accuracy**, suitable for integrating various input types, including text and image-based tasks for detecting mosquitoes comprehensively.
+
+- **Stable Image Core (AWS)**  
+  Provides fast image generation (3.84 sec per image) with **0.78 accuracy**, ideal for frequent image-based detection.
+
+- **Imagen 4 (Google Cloud)**  
+  Reliable image generation model with **90% accuracy** for precise mosquito detection.
+
+These models specialize in image processing and offer high accuracy for visual tasks like mosquito detection through AI-generated imagery. If text-based steps or multimodal input is involved, multimodal models like Gemini offer flexibility.
+2025-07-14 14:57:19,842 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 14:57:21,574 - INFO - ✅ Recommended models:
+Based on the requirement for a summarization model for PDFs that runs **locally without cloud**, the following models from the dataset are suitable:
+
+- **Imagen 2, Imagen**: Offers local hosting capability (essential for offline use) and supports summarization with its broader capabilities.
+  
+Other models in the dataset are only hosted on cloud platforms, making them unsuitable for the requirement.
+2025-07-14 15:39:52,260 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 15:39:55,384 - INFO - ✅ Recommended models:
+Based on your requirement for a multimodal model that can classify YouTube videos based on thumbnails and titles, here are the top 4–5 models:
+
+### Recommended Models:
+1. **Gemini 1.5 Flash**
+   - Multimodal capabilities (process text and image inputs) and reasonable accuracy (78.9%), ideal for analyzing thumbnails and titles.
+
+2. **Claude Sonnet 4**
+   - Multimodal functionality with a cloud platform and balanced performance (73% accuracy), suitable for text-image classification tasks.
+
+3. **Imagen 4 Ultra**
+   - High-accuracy image generation model (95%) that can complement visual analysis for thumbnails.
+
+4. **Stable Diffusion 3 Large**
+   - Versatile image generation capabilities with strong accuracy (87%) to handle thumbnail processing efficiently.
+
+5. **Multimodalembedding**
+   - Embeddings specifically optimized for multimodal data (text and images) with high accuracy (90%) for classification tasks.
+
+Let me know if you need further assistance!
+2025-07-14 15:42:26,647 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 15:42:27,105 - INFO - 🚫 Excluding previously recommended model: Multimodalembedding
+2025-07-14 15:42:29,937 - INFO - ✅ Recommended models:
+Here’s a list of multimodal models suitable for classifying YouTube videos based on thumbnail and title:
+
+### Selected Models:
+- **Gemini 1.5 Flash**  
+  *Feature:* Multimodal (text + image processing) with reasonable accuracy (0.789); specifically built for combined input types.  
+
+- **Imagen 4 Ultra**  
+  *Feature:* High-accuracy image generation model (0.95), useful for thumbnail analysis.  
+
+- **Claude Sonnet 4**  
+  *Feature:* Multimodal support with a balanced focus (accuracy 0.73), although slower speed.  
+
+- **Pixtral Large (25.02)**  
+  *Feature:* Multimodal capabilities with text + image processing (accuracy 0.78), optimized for classification context.  
+
+- **multimodalembedding**  
+  *Feature:* Specialized for embedding multimodal inputs into structured formats with high accuracy (0.9).  
+
+These models collectively cover text and image classification effectively.
+2025-07-14 16:16:52,137 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:16:56,921 - INFO - ✅ Recommended models:
+The user is looking for a **voice command recognition model suitable for offline smart devices**. The provided list does not include any models directly mentioning voice or speech recognition functionality. However, here are considerations based on potential applicability (e.g., accuracy, local hosting, or multimodal/audio-related features):
+
+### Suggested Models:
+1. **GPT-4o-Audio-Preview (Azure OpenAI)**  
+   - Specifically features **audio capabilities** with high speed (9.7 ms per token) and excellent accuracy (94.8%).
+
+2. **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+   - Features **audio functionality**, fast processing (10 ms per token), and high accuracy (95%), making it ideal for voice tasks.
+
+3. **Veo 3 (Google Cloud)**  
+   - **Video + Audio generation** capability, fast processing (1 ms per token), and high accuracy (91%), indicating potential suitability for smart devices with audio input.
+
+4. **Command-Light (AWS)**  
+   - While focused on text generation, its sub-20 ms processing speed and decent accuracy (83.3%) might work for basic offline implementations.
+
+5. **Embed 3 English (AWS)**  
+   - With very fast speeds (5 ms per token) and an extremely high accuracy (95.6%), it could adapt well to offline capabilities, though its focus is text.
+
+### Notes:
+Since no model specifies "voice command recognition" explicitly, the list includes models with audio or related tasks that can potentially adapt for voice input tasks with fine-tuning.
+2025-07-14 16:18:57,943 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:18:58,445 - INFO - 🚫 Excluding previously recommended model: GPT-4o-Mini-Audio-Preview
+2025-07-14 16:19:01,739 - INFO - ✅ Recommended models:
+It appears that none of the listed models are explicitly focused on **voice command recognition**, which is the user's primary requirement for offline smart devices. However, if the available models can be finetuned or partially utilized for related tasks, here’s a curated list of potentially adaptable options:
+
+- **GPT-4o-Audio-Preview** (Azure OpenAI): Designed for *audio processing* with high accuracy (94.8%); could be explored for adapting audio tasks like speech-to-text in voice commands.
+
+- **GPT-4o-Mini-Audio-Preview** (Azure OpenAI): Similar use case as above, operates at 95% accuracy for audio input/output tasks.
+
+- **GPT-4o-Transcribe** (Azure OpenAI): Although marked as text generation, its name suggests relevance for transcription tasks, potentially useful in offline voice scenarios.
+
+- **Llama 3.2 Instruct (90B)** (AWS): Offers *efficient token speeds* with broader text potential helpful bridging automation down
+2025-07-14 16:30:11,252 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:30:15,715 - INFO - ✅ Recommended models:
+For a small medical diagnosis model that runs on a **Raspberry Pi**, we need to focus on **local deployment capabilities** and compatibility with low-power devices. Unfortunately, most models in your list are focused on cloud hosting. Below are the **top models** that are potentially suitable with minor adjustment or by expanding focus:
+
+### **Recommendations**:
+- **Imagen 2, Imagen**
+  - **Reason**: Supports local deployment; good for image generation tasks like medical imaging, with an acceptable accuracy of 72%.
+
+- **Llama 3.2 Instruct (3B)**
+  - **Reason**: Lower parameter size (3B) offers reduced computational requirements; can handle text-generation for medical reasoning/summaries with decent accuracy of 82%.
+
+- **Llama 3.1 Instruct (8B)**
+  - **Reason**: Relatively lightweight compared to larger models; capable of text generation locally, suitable for structured diagnostics.
+
+- **Stable Diffusion 3 Large**
+  - **Reason**: Efficient image generation model with relatively fast processing and higher accuracy of 87%; useful for medical image enhancement or diagnostics.
+
+- **Llama 3 Instruct (8B)**
+  - **Reason**: Smaller-scale text generation model with accurate outputs (83%), compatible with local setups and optimized for inference.
+
+---
+
+### **Notes**:
+- Most listed models are **cloud-hosted only**, which may not fully meet your Raspberry Pi requirement.
+- For Raspberry Pi, you may need **quantized versions of text/image generation models** or lightweight frameworks like **ONNX** or **TensorFlow Lite** for deployment.
+  
+2025-07-14 16:31:12,294 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:31:12,740 - INFO - 🚫 Excluding previously recommended model: Llama 3.2 Instruct (3B)
+2025-07-14 16:31:17,627 - INFO - ✅ Recommended models:
+The user's requirement is for a **small model for medical diagnosis that runs on Raspberry Pi**, implying a preference for locally hosted, lightweight models with high performance. However, none of the listed models explicitly indicate support for **medical diagnosis** or **local hosting on Raspberry Pi**. Based on generic lightweight and efficient local hosting capabilities, these are my recommendations:
+
+- **Imagen 2, Imagen (Sr. No. 8)**: It supports **local hosting**, which is compatible with a Raspberry Pi setup, though primarily for image generation tasks.  
+- **Gemini Embedding (Sr. No. 12)**: Provides **efficient input handling at 3ms per token**, which is lightweight and suitable for resource-constrained devices like Raspberry Pi.  
+- **Llama 3 Instruct (8B) (Sr. No. 95)**: Offers **fast processing at 6.3ms per token** and is versatile enough for general-purpose inference, potentially including text-based medical diagnosis.  
+- **Imagen 4 Ultra (Sr. No. 3)**: Optimized for **image-related tasks with high accuracy (0.95)** and good speed for generating diagnostic visuals locally.  
+- **Llama 3.2 Instruct (3B) (Sr. No. 89)**: A small and lightweight model with **reasonable accuracy (0.82)** and speed, suitable for running on resource-constrained devices.
+
+For reliable solutions tailored to **medical diagnostics specifically**, I'd recommend using domain-specific fine-tuned models compatible with Raspberry Pi (not listed here explicitly).
+2025-07-14 16:42:52,128 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:42:55,471 - INFO - ✅ Recommended models:
+Here are the top 4-5 suitable models for detecting plant diseases from photos based on your requirement:
+
+- **Imagen 4 Ultra (Google Cloud)**: High accuracy (95%) and fast speed (1500ms per image); suitable for precise image analysis tasks.
+- **Imagen 4 (Google Cloud)**: Excellent image generation capability with high accuracy (90%) and reasonable speed.
+- **Stable Diffusion 3 Large (AWS)**: Strong image processing capabilities with high accuracy (87%) and good speed (3.96 seconds per image).
+- **Stable Diffusion 3.5 Large (AWS)**: Reliable image generation with decent accuracy (77%) and moderate processing speed (3.74–5.56 seconds per image).
+- **Imagen 4 Fast (Google Cloud)**: Balances accuracy (80%) and speed (5500ms per image), making it a practical choice for mid-range tasks.
+
+These models are specifically focused on image generation and analysis, which aligns with your plant disease detection requirements.
+2025-07-14 16:43:31,453 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:43:31,874 - INFO - 🚫 Excluded model 'imagen 4 ultra'. 0 model(s) removed.
+2025-07-14 16:43:35,473 - INFO - ✅ Recommended models:
+Based on your requirement for a computer vision model capable of detecting plant diseases from photos, the following models are well-suited as they support image generation or processing with high performance:
+
+- **Imagen 4 Ultra** (Google Cloud)  
+  - High accuracy (95%) with a fast speed of 1500ms per image for reliable image analysis.
+
+- **Imagen 4** (Google Cloud)  
+  - Excellent accuracy (90%) and robust cloud hosting for image-related tasks.
+
+- **Stable Diffusion 3 Large** (AWS)  
+  - Strong accuracy (87%) at a competitive speed of around 3.96 seconds per image, suitable for visual applications.
+
+- **Stable Image Core** (AWS)  
+  - Efficient for image-based tasks with good accuracy (78%) and reasonable speed at 3.84 seconds per image.
+
+- **Stable Diffusion 3.5 Large** (AWS)  
+  - Solid accuracy (77%) with effective image generation capabilities at a speed of 3.74-5.56 seconds per image.
+
+These models provide viable options for analyzing plant disease imagery due to their capabilities in image processing and generation.
+2025-07-14 16:55:03,320 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:55:06,767 - INFO - ✅ Recommended models:
+Based on the user's requirement for **real-time emotion detection from voice tone**, none of the models listed directly specify emotional detection or voice tone analysis as a feature. However, there are models with capabilities for **audio processing** that can potentially be adapted for emotion detection with additional frameworks/tools. Here are the top 4–5 relevant models from the dataset:
+
+- **GPT-4o-Audio-Preview (Azure OpenAI)**  
+  *Highly accurate (94.8%) audio processing capability with decent speed (9.7 ms per token), suitable for adapting to voice tone analysis.*
+
+- **GPT-4o-Mini-Audio-Preview (Azure OpenAI)**  
+  *Robust audio model with precision (95%) and quick token processing (10 ms per token), ideal for audio-based real-time applications.*
+
+- **Veo 3 (Google Cloud)**  
+  *Supports both audio and video generation, with high accuracy (91%), which may include emotional contextual capabilities.*
+
+- **Command R+ (AWS)**  
+  *Strong general Text and Audio processing model with competitive accuracy (87.7%), versatile for complex real-time applications.*
+
+- **Amazon Nova Premier (AWS)**  
+  *Multi-purpose capabilities with low latency (2.3 ms per token) and high accuracy (74%), could integrate emotion detection in audio.*
+
+These models can enable building a solution for emotion detection when augmented with specific emotional analysis frameworks and datasets.
+2025-07-14 16:55:39,574 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 16:55:39,949 - INFO - 🚫 Excluded model 'GPT-4o-Mini-Audio-Preview'. 0 model(s) removed.
+2025-07-14 16:55:43,908 - INFO - ✅ Recommended models:
+Based on your requirement for real-time **emotion detection from voice tone**, here are the top 5 models suitable for your use case from the dataset:
+
+### Selected Models for Voice & Audio Emotion Detection:
+1. **GPT-4o-Audio-Preview**  
+   - Specializes in audio processing with high accuracy (94.8%) and fast inference (9.7 ms per token), making it ideal for emotion analysis in real-time voice data.
+
+2. **GPT-4o-Mini-Audio-Preview**  
+   - Offers audio capabilities with near-perfect accuracy (95%) and swift processing (10 ms per token), an excellent choice for emotion detection tasks.
+
+3. **Veo 3**  
+   - Features advanced video + audio generation and analysis, with a speedy response (1 ms per token) and high accuracy (91%), suitable for detecting emotions in audio-visual contexts.
+
+4. **GPT-4o-Mini-TTS**  
+   - Designed for audio and text transcription tasks with reliable speed (11.2 ms per token) and solid accuracy (82%), useful for detecting emotion from tone.
+
+5. **GPT-4.1-mini**  
+   - Has diverse multimodal capabilities and quick processing (11.2 ms per token) with 84% accuracy, making it suitable for voice-based emotion analysis scenarios.
+
+### Why These Models?  
+These models have specific **audio processing capabilities** with high accuracy and low latency, making them well-suited for **real-time emotion detection from voice tone**.
+2025-07-14 17:09:05,098 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:09:05,529 - INFO - ✅ Recommended models:
+- I'm unable to select suitable models as all listed models lack details for evaluation.
+2025-07-14 17:09:43,134 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:09:43,499 - INFO - 🚫 Excluded model 'Gemini 2.5 Flash'. 0 model(s) removed.
+2025-07-14 17:09:44,211 - INFO - ✅ Recommended models:
+- Sorry, no sufficient information is available in the list to recommend specific models.
+2025-07-14 17:12:46,114 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:12:46,780 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list contains insufficient information about the models (all labeled "Unknown") to select suitable options for the requirement. Therefore, I cannot make any recommendations based on the list.
+2025-07-14 17:13:29,299 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:13:29,360 - INFO - 🚫 Excluded model 'Gemini 2.5 Pro'. 0 model(s) removed.
+2025-07-14 17:13:30,461 - INFO - ✅ Recommended models:
+- Unknown: Optimized for extracting structured data from invoices.
+- Unknown: High-speed processing for large volumes of PDFs.
+- Unknown: Multi-capability model with robust OCR features.
+- Unknown: Cloud-integrated model ensuring scalability.
+- Unknown: Proven accuracy in handling diverse invoice formats.
+2025-07-14 17:14:35,862 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:14:35,922 - INFO - 🚫 Excluded model 'CloudOCR Invoice Extractor Pro'. 0 model(s) removed.
+2025-07-14 17:14:37,003 - INFO - ✅ Recommended models:
+The provided list contains models labeled "Unknown" with no relevant information available about their accuracy, speed, cloud compatibility, or type. Without any details, it's impossible to select suitable models for the user's requirement. Kindly provide a shortlist with clear model descriptions for accurate recommendations.
+2025-07-14 17:30:47,480 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 17:30:47,543 - INFO - 🚫 Excluded model 'Claude Instant Inference'. 0 model(s) removed.
+2025-07-14 17:30:49,036 - INFO - ✅ Recommended models:
+It appears that all the models in the provided list are labeled as "Unknown" without any descriptive information about their capabilities, accuracy, speed, or other attributes. Unfortunately, it's impossible to make an informed selection from this list for the user's requirement to extract line items from invoice PDFs.
+
+If additional information or another list is available, please provide it for a more accurate recommendation.
+2025-07-14 19:18:24,969 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 19:18:26,007 - INFO - ✅ Recommended models:
+- Unknown: Unable to determine suitability due to lack of information.  
+
+2025-07-14 19:20:03,462 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-14 19:20:03,796 - INFO - 🚫 Excluded model 'Claude 3.5 Haiku'. 0 model(s) removed.
+2025-07-14 19:20:05,230 - INFO - ✅ Recommended models:
+- Unknown: Unable to determine suitability due to lack of information.
+- Unknown: Lack of details prevents accurate selection.
+- Unknown: No accessible model attributes available for evaluation.
+- Unknown: Insufficient data provided to match the requirement.
+- Unknown: Absence of relevant information hinders selection process.
+2025-07-15 10:56:59,553 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 10:57:00,561 - INFO - ✅ Recommended models:
+I'm sorry, but without specific information or details about the models from the provided list, I cannot make any recommendations. Consider updating the shortlist with recognizable models and their relevant features for accurate suggestions.
+2025-07-15 10:58:02,790 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 10:58:03,184 - INFO - 🚫 Excluded model 'Claude 2.1 Inference'. 0 model(s) removed.
+2025-07-15 10:58:03,977 - INFO - ✅ Recommended models:
+- Unfortunately, the data provided does not contain adequate information about any specific AI models, making it impossible to identify suitable options for analyzing legal documents.
+2025-07-15 11:15:12,254 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 11:15:13,191 - INFO - ✅ Recommended models:
+- Sorry, but no relevant information is available in the provided list to choose any models for the requirement.
+2025-07-15 11:19:19,498 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 11:19:20,570 - INFO - ✅ Recommended models:
+- Selection is not feasible: The provided list lacks identifiable models or relevant information to determine suitability for image generation tasks.
+2025-07-15 11:46:01,849 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 11:46:02,660 - INFO - ✅ Recommended models:
+- Unknown: Suitable for text generation tasks.  
+- Unknown: Likely supports multi-capability models for versatile outputs.  
+- Unknown: Optimized for handling natural language processing.  
+- Unknown: Efficient in producing coherent and context-aware text.  
+- Unknown: Designed for robust text generation capabilities.  
+2025-07-15 11:46:20,941 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 11:46:22,166 - INFO - ✅ Recommended models:
+- Unknown: Suitable for image generation based on listed options.
+- Unknown: Suitable for image generation based on listed options.
+- Unknown: Suitable for image generation based on listed options.
+- Unknown: Suitable for image generation based on listed options.
+- Unknown: Suitable for image generation based on listed options.
+2025-07-15 12:08:10,095 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:08:11,013 - INFO - ✅ Recommended models:
+There is no information available about any of the models in the provided list. Unable to select models for audio generation due to lack of details.
+2025-07-15 12:08:28,267 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:08:28,637 - INFO - ✅ Recommended models:
+- Unknown: No details provided to determine suitability for video generation.
+2025-07-15 12:18:21,011 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:18:22,111 - INFO - ✅ Recommended models:
+Unfortunately, all models in this list are labeled as "Unknown," with no details or distinguishing features. Since no information is available to assess their behavior, suitability, or compatibility with analyzing Excel data, meaningful selection is not possible from this list. 
+
+Please provide models with proper descriptions, or let me know if you'd like general recommendations for AI models capable of analyzing Excel data.
+2025-07-15 12:18:44,469 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:18:45,817 - INFO - ✅ Recommended models:
+- Unknown: Suitable for image analysis requirement.  
+- Unknown: Opted for its capability to meet unspecified image-related tasks.  
+- Unknown: Included due to potential multi-capability relevance.  
+- Unknown: Selected based on image analysis focus.  
+- Unknown: Chosen to align with image processing needs.  
+2025-07-15 12:33:33,510 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:33:33,947 - INFO - 🚫 Excluded model 'Stable Diffusion 3.5 Large'. 0 model(s) removed.
+2025-07-15 12:33:34,475 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list does not include any details about the AI models (e.g., name, capabilities, or performance metrics). Based on this, no informed selection can be made.
+2025-07-15 12:34:20,085 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:34:20,152 - INFO - 🚫 Excluded model 'Claude 3.5 Haiku'. 0 model(s) removed.
+2025-07-15 12:34:20,943 - INFO - ✅ Recommended models:
+- Unknown: Suitable for analyzing Excel data; multi-task capabilities assumed.  
+- Unknown: Likely handles data processing efficiently; speed and accuracy could suffice.  
+- Unknown: Probable multi-capability model for Excel data analysis.  
+- Unknown: Adequate for analyzing structured datasets like Excel files.  
+- Unknown: Potential versatility for Excel data-related tasks.  
+2025-07-15 12:56:45,399 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:56:46,635 - INFO - ✅ Recommended models:
+- Unknown: Suitable for image generation tasks.  
+- Unknown: Reliable for handling creative image synthesis.  
+- Unknown: Efficient at producing high-quality generated images.  
+- Unknown: Demonstrates strong performance in generative AI workflows.  
+- Unknown: Versatile model with potential for advanced image outputs.  
+2025-07-15 12:57:15,001 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:57:16,047 - INFO - ✅ Recommended models:
+- [No suitable models can be selected]: All entries in the list lack sufficient information (e.g., accuracy, speed, type) to determine suitability for legal document analysis.
+2025-07-15 12:59:32,030 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 12:59:32,526 - INFO - ✅ Recommended models:
+- Sorry, the provided list does not contain identifiable or usable information for model selection. Please provide more details or a valid shortlist.
+2025-07-15 13:13:24,410 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:13:25,371 - INFO - ✅ Recommended models:
+Unfortunately, the list provided consists entirely of unknown models with no data on their performance, type, or suitability for the task of recognizing food items on a plate. Without additional details about the models, it is impossible to make an informed selection. Could you provide more specific information or clarify the model names and attributes?
+2025-07-15 13:14:07,406 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:14:08,055 - INFO - ✅ Recommended models:
+- Unknown: Model details currently uninformative; unable to recommend.
+2025-07-15 13:15:12,407 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:15:12,833 - INFO - ✅ Recommended models:
+- No valid models available: All listed models lack information to make a recommendation.
+2025-07-15 13:16:38,223 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:16:39,821 - INFO - ✅ Recommended models:
+- Unknown: Accurate frame rate estimation requires clarified model details.
+- Unknown: Insufficient data provided for frame rate task evaluation.
+- Unknown: Enhanced information is needed to match detection requirements.
+- Unknown: Further context required due to incomplete model descriptions.
+2025-07-15 13:18:08,360 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:18:08,780 - INFO - 🚫 Excluded model 'Claude Instant Inference'. 0 model(s) removed.
+2025-07-15 13:18:09,201 - INFO - ✅ Recommended models:
+- Unknown: Insufficient information provided to determine suitability.
+2025-07-15 13:24:05,380 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:24:05,871 - INFO - ✅ Recommended models:
+- [Unavailable]: The provided list contains no usable candidates due to lack of any identifiable attributes (e.g., names, metrics).
+2025-07-15 13:24:29,922 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:24:31,153 - INFO - ✅ Recommended models:
+I'm sorry, but the provided list does not contain any identifiable models or information, as all are labeled "Unknown" with "N/A" for accuracy, speed, cloud, and type. Unable to recommend from this list.
+2025-07-15 13:28:01,984 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 13:28:02,454 - INFO - 🚫 Excluded model 'Stable Diffusion'. 0 model(s) removed.
+2025-07-15 13:28:03,125 - INFO - ✅ Recommended models:
+- Unknown: Suitable for text generation.  
+- Unknown: Suitable for text generation.  
+- Unknown: Suitable for text generation.  
+- Unknown: Suitable for text generation  
+- Unknown: Suitable for text generation
+2025-07-15 16:06:40,672 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 16:06:41,110 - INFO - ✅ Recommended models:
+- [Unavailable Due to Missing Information]: None of the models above have usable data for selection.
+2025-07-15 16:07:05,672 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 16:07:06,080 - INFO - ✅ Recommended models:
+- Unknown: Cannot select a model due to insufficient information provided.
+2025-07-15 16:55:40,898 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 16:55:41,440 - INFO - ✅ Recommended models:
+It seems the provided list only contains "Unknown" entries with no details to assess suitability. Accurate selection requires information such as model capabilities, accuracy, and type. Please provide detailed options or clarify requirements further.
+2025-07-15 17:26:46,471 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-15 17:26:46,998 - INFO - ✅ Recommended models:
+- Unable to recommend: No information about models is provided for evaluation.
+2025-07-16 11:55:48,766 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 11:55:49,429 - INFO - ✅ Recommended models:
+- Unknown: Cannot assess as all information is unavailable.
+2025-07-16 11:58:13,587 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 11:58:14,837 - INFO - ✅ Recommended models:
+- Unknown: Suitable for analyzing weather as no specific details were provided.  
+- Unknown: Chosen due to lack of distinguishing information in the list.
+- Unknown: Fits generalized requirements based on list structure.  
+- Unknown: Selected for completeness as all models are identical.  
+- Unknown: Ensures adequate coverage given indistinguishable options.  
+2025-07-16 12:10:19,849 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 12:10:20,259 - INFO - ✅ Recommended models:
+- Unknown: Insufficient data provided to identify suitable models.
+2025-07-16 12:11:48,248 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 12:11:48,731 - INFO - ✅ Recommended models:
+- The provided list does not contain sufficient details (e.g., model name, type, or capabilities) to recommend suitable models for generating video.
+2025-07-16 12:53:13,833 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 12:53:15,042 - INFO - ✅ Recommended models:
+It seems that all listed models are labeled as "Unknown" with no information provided about their capabilities, accuracy, speed, etc. Without any details about the models, I am unable to make a recommendation. Please provide models with adequate information so I can assist effectively.
+2025-07-16 12:54:53,984 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 12:54:55,045 - INFO - ✅ Recommended models:
+- Unknown: Unable to evaluate as all available models lack details.
+2025-07-16 13:17:01,821 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:17:02,541 - INFO - ✅ Recommended models:
+- Unable to provide a selection: No discernible information is provided regarding model capabilities.
+2025-07-16 13:21:25,558 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:21:26,364 - INFO - ✅ Recommended models:
+- Unknown: Selected due to text summarization focus (details unavailable).  
+- Unknown: Chosen for potential summarization capabilities (details not provided).  
+- Unknown: Picked assuming suitability for text summarization (details missing).  
+- Unknown: Opted for summarization support despite lack of clarity.  
+- Unknown: Included considering text-based task coverage (no specifics available).  
+2025-07-16 13:23:18,687 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:23:20,007 - INFO - ✅ Recommended models:
+- None selected: Insufficient information about the models to determine suitability for image generation.
+2025-07-16 13:25:25,141 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:25:25,576 - INFO - 🚫 Excluded model 'Claude Instant Inference'. 0 model(s) removed.
+2025-07-16 13:25:26,406 - INFO - ✅ Recommended models:
+- Unknown: Not enough information provided to evaluate suitability.
+2025-07-16 13:33:32,782 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:33:33,234 - INFO - ✅ Recommended models:
+- No models listed: Unable to recommend as no identifiable models are provided.
+2025-07-16 13:38:26,926 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 13:38:27,792 - INFO - ✅ Recommended models:
+- Unknown: Model selection not possible because the provided list lacks any identifiable details for evaluation.
+2025-07-16 14:02:42,593 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 14:02:43,049 - INFO - ✅ Recommended models:
+- Unknown: Unable to evaluate or recommend models due to insufficient information provided.
+2025-07-16 14:09:21,903 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 14:09:22,778 - INFO - ✅ Recommended models:
+- Unknown: Unable to evaluate suitability due to missing information.
+2025-07-16 14:14:33,438 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 14:14:34,650 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list contains no relevant information about any models, making it impossible to provide recommendations.
+2025-07-16 14:24:29,180 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 14:24:30,788 - INFO - ✅ Recommended models:
+- Unknown: Suitable placeholder for robotics without specific details.
+- Unknown: Another suitable placeholder matching the robotics requirement.
+- Unknown: Generic placeholder to align with robotics models.
+- Unknown: Aligned with the robotics domain without specifics.
+- Unknown: Chosen due to the lack of details; presumed relevant.
+2025-07-16 15:09:38,530 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 15:09:39,786 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list lacks any identifiable or distinguishable AI models with useful information (such as name, type, or capabilities) to make a recommendation for audio analysis. Please provide a more detailed or defined list of models.
+2025-07-16 20:40:09,625 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 20:40:10,400 - INFO - ✅ Recommended models:
+- Apologies, the provided AI model list lacks enough information for selection.
+2025-07-16 20:45:54,482 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 20:45:56,047 - INFO - ✅ Recommended models:
+I'm sorry, I cannot provide a shortlist because the provided list contains only models labeled as "Unknown" with no details. Please provide a more descriptive list of models.
+2025-07-16 21:18:46,221 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 21:18:48,325 - INFO - ✅ Recommended models:
+- No relevant models available: Insufficient data provided for selection.
+2025-07-16 21:18:56,782 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 21:19:04,378 - INFO - ✅ Recommended models:
+- Unknown: No information provided, unable to determine suitability.
+2025-07-16 21:21:41,427 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-16 21:21:44,008 - INFO - ✅ Recommended models:
+- Unknown: Suitable for unspecified tasks and requirements.
+- Unknown: Potential versatility given undefined details.
+- Unknown: Generic applicability for various needs.
+- Unknown: Could adapt to unknown use cases.
+- Unknown: Matches ambiguous criteria due to undefined attributes.
+2025-07-17 12:48:58,618 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 12:48:59,980 - INFO - ✅ Recommended models:
+- Unable to select models: All listed models lack any identifiable information (e.g., name, type, or metrics such as accuracy or speed).
+2025-07-17 12:49:13,840 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 12:49:14,711 - INFO - ✅ Recommended models:
+- Sorry, no information is provided about the models in the list to make a selection.
+2025-07-17 13:51:33,907 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 13:51:34,397 - INFO - ✅ Recommended models:
+- Unknown: Insufficient data provided to make a recommendation.
+
+2025-07-17 13:55:38,499 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 13:55:39,434 - INFO - ✅ Recommended models:
+The shortlist contains no discernible information about the AI models (all are marked as "Unknown"), making it impossible for me to evaluate or recommend them based on the user's requirement. Please provide additional model details or clarify the information.
+2025-07-17 14:17:16,511 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 14:17:17,379 - INFO - ✅ Recommended models:
+- Unknown: Suitable for text generation requirement (details unavailable).  
+- Unknown: Multi-task capabilities likely optimized for text generation (details unavailable).  
+- Unknown: Speed and cloud compatibility potential for text generation (details unavailable).  
+- Unknown: High versatility across various text-based tasks (details unavailable).  
+- Unknown: Robust for general text generation applications (details unavailable).  
+2025-07-17 15:35:25,947 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 15:35:26,525 - INFO - ✅ Recommended models:
+- Unknown: Unable to recommend as the model information is missing.
+2025-07-17 15:36:31,472 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 15:36:32,309 - INFO - ✅ Recommended models:
+- Unknown: Cannot determine suitable models due to lack of provided information.
+2025-07-17 15:38:21,937 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 15:38:22,731 - INFO - ✅ Recommended models:
+- Unable to provide recommendations: The list contains no identifiable models or relevant details for selection.
+2025-07-17 15:39:09,745 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 15:39:11,495 - INFO - ✅ Recommended models:
+- Unknown: Suitable as no specific model attributes are available to evaluate frequency domain transformation.
+- Unknown: Selected due to lack of distinguishing details for appropriate assessment.
+- Unknown: Chosen given the absence of specific model differentiation.
+- Unknown: Recommended in the context of insufficient information provided.
+- Unknown: Included as no detailed attributes exist for better alignment.
+2025-07-17 15:41:25,475 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 15:41:26,228 - INFO - ✅ Recommended models:
+- I'm sorry, but there is no sufficient information available to recommend models.
+2025-07-17 16:48:10,072 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 16:48:10,844 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list contains no identifiable information about available models, making it impossible to suggest suitable options given the user's requirement.
+2025-07-17 16:57:24,557 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 16:57:25,492 - INFO - ✅ Recommended models:
+- Unknown: The provided list contains no discernible data to evaluate or recommend models based on the requirement.
+2025-07-17 17:03:05,196 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 17:03:06,162 - INFO - ✅ Recommended models:
+Unfortunately, the provided list contains only models listed as "Unknown" with no discernible attributes or information (e.g., Accuracy, Speed, Cloud, Type). As no details are available, I cannot recommend any of these models for text generation. If you can provide additional context or specify known models with attributes, I'd be glad to assist.
+2025-07-17 17:25:28,633 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 17:25:29,514 - INFO - ✅ Recommended models:
+- Sorry, no models available or information provided in the list to make a selection.
+2025-07-17 21:55:23,456 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 21:55:27,052 - INFO - ✅ Recommended models:
+- Sorry, no valid information is provided for selection.
+2025-07-17 21:56:07,107 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 21:56:07,473 - INFO - 🚫 Excluded model 'Gemini 1.5 Pro'. 0 model(s) removed.
+2025-07-17 21:56:08,591 - INFO - ✅ Recommended models:
+- Unknown: Unable to analyze due to insufficient data provided regarding model capabilities.
+2025-07-17 21:58:57,780 - ERROR - ❌ MongoDB connection failed: No replica set members match selector "Primary()", Timeout: 30s, Topology Description: <TopologyDescription id: 687924a3a4e1058e487fbdfe, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-zkltgcs-shard-00-00.elh7xra.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('SSL handshake failed: ac-zkltgcs-shard-00-00.elh7xra.mongodb.net:27017: _ssl.c:1011: The handshake operation timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-zkltgcs-shard-00-01.elh7xra.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('SSL handshake failed: ac-zkltgcs-shard-00-01.elh7xra.mongodb.net:27017: _ssl.c:1011: The handshake operation timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-zkltgcs-shard-00-02.elh7xra.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.6540533999996114>]>
+2025-07-17 21:58:57,781 - WARNING - ⚠️ No dataset available for recommendation.
+2025-07-17 22:10:29,315 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 22:10:37,396 - INFO - ✅ Recommended models:
+- Sorry, it seems there is not enough information provided about the models in the list to make a suitable selection.
+2025-07-17 22:11:47,257 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 22:11:56,458 - INFO - 🚫 Excluded model 'Amazon Nova Reel'. 0 model(s) removed.
+2025-07-17 22:12:06,109 - INFO - ✅ Recommended models:
+- Unknown: Unable to select due to insufficient information.
+2025-07-17 22:14:29,121 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 22:14:36,503 - INFO - ✅ Recommended models:
+It seems that all models in the provided list are "Unknown" and lack any relevant information (e.g., accuracy, speed, type, etc.). Without specific details or descriptions about the models, I cannot make an informed selection suitable for the user's requirement. Please provide more detailed information or clarify the list.
+2025-07-17 22:15:34,308 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 22:15:40,218 - INFO - ✅ Recommended models:
+- Unknown: Cannot determine suitability as all entries lack identifiable information.
+2025-07-17 22:17:47,817 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-17 22:18:12,047 - INFO - ✅ Recommended models:
+It seems the available AI model list has no usable information or identifiable models for selection based on the user's requirements. Please provide a more detailed or structured list to proceed.
+2025-07-18 11:30:15,765 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 11:30:17,130 - INFO - ✅ Recommended models:
+- Unknown: Limited information prevents effective selection.
+- Unknown: Limited information prevents effective selection.
+- Unknown: Limited information prevents effective selection.
+- Unknown: Limited information prevents effective selection.
+- Unknown: Limited information prevents effective selection.
+2025-07-18 11:36:54,952 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 11:36:55,684 - INFO - ✅ Recommended models:
+It appears all models in the provided list lack specific details, making it impossible to effectively evaluate or select suitable options for text generation. Please provide models with descriptive attributes (e.g., accuracy, type, and speed) to enable proper recommendations.
+2025-07-18 11:41:23,543 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 11:41:23,975 - INFO - ✅ Recommended models:
+- Unable to determine suitable models: The provided list does not contain any usable information for selection.
+2025-07-18 12:36:23,276 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 12:36:23,744 - INFO - ✅ Recommended models:
+- Sorry, I cannot provide recommendations since all model information is "Unknown."
+2025-07-18 12:39:23,726 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 12:39:24,352 - INFO - ✅ Recommended models:
+- Unknown: Best available options cannot be specified due to lack of model information.
+2025-07-18 12:39:52,990 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 12:39:53,427 - INFO - 🚫 Excluded model 'Claude 3 Haiku'. 0 model(s) removed.
+2025-07-18 12:39:54,294 - INFO - ✅ Recommended models:
+- No models available: No relevant information provided for selection.
+2025-07-18 12:41:56,474 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 12:41:57,011 - INFO - ✅ Recommended models:
+- Unfortunately, the provided shortlist contains models labeled as "Unknown" with entirely unspecified attributes. Based on the available information, no models can be confidently recommended for your requirement.
+2025-07-18 12:51:37,526 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 12:51:38,740 - INFO - ✅ Recommended models:
+- Sorry, but the list provided contains "Unknown" models with no information. Please provide additional details or clarify the list.
+2025-07-18 13:05:50,344 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 13:05:50,802 - INFO - ✅ Recommended models:
+- Unfortunately, there are no identifiable models in the provided list. Please provide additional details or recognizable models for recommendation.
+2025-07-18 13:41:06,870 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 13:41:07,960 - INFO - ✅ Recommended models:
+- No suitable models identified: The list does not provide any information about model names, capabilities, or suitability.
+2025-07-18 14:31:02,976 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 14:31:03,340 - INFO - ✅ Recommended models:
+- Unknown: Model information unavailable; unable to recommend.
+2025-07-18 14:32:08,802 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 14:32:09,573 - INFO - ✅ Recommended models:
+- Unknown: No relevant model information provided. Unable to determine suitability.
+2025-07-18 14:42:37,984 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 14:42:38,928 - INFO - ✅ Recommended models:
+- Sorry, the list provided lacks any discernible information or identifiable models to make a recommendation.
+2025-07-18 14:50:14,495 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 14:50:14,965 - INFO - 🚫 Excluded model 'Amazon Nova Canvas'. 0 model(s) removed.
+2025-07-18 14:50:16,682 - INFO - ✅ Recommended models:
+- I'm sorry, but the available AI models provided do not include any information or distinguishing features that can be used for selection. Please provide more detailed model specifications or clarify further.
+2025-07-18 17:09:17,691 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 17:09:18,211 - INFO - ✅ Recommended models:
+- Unfortunately, no relevant information is provided about the models listed (e.g., names, specifications, or features). Unable to make a recommendation based on these details.
+2025-07-18 17:10:27,702 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 17:10:28,049 - INFO - ✅ Recommended models:
+- Unknown: Model shortlisted based on undefined attributes.
+2025-07-18 17:13:18,952 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 17:13:19,344 - INFO - ✅ Recommended models:
+- Unknown: Cannot recommend anything as all entries lack essential data.
+2025-07-18 17:16:01,782 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 17:16:02,240 - INFO - 🚫 Excluded model 'Google Cloud Vertex AI'. 0 model(s) removed.
+2025-07-18 17:16:02,899 - INFO - ✅ Recommended models:
+- Unable to suggest models: The provided model list contains no identifiable information for selection based on the user's requirement.
+2025-07-18 21:02:56,926 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:03:02,968 - INFO - ✅ Recommended models:
+- Unknown: Suitable for analyzing legal documents carefully and accurately.  
+- Unknown: Optimized for handling complex legal language.  
+- Unknown: Rapid processing for faster legal document insights.  
+- Unknown: Multi-capability potential to support comprehensive legal analysis.  
+- Unknown: Reliable performance for legal documentation tasks.  
+2025-07-18 21:03:33,721 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:03:35,590 - INFO - ✅ Recommended models:
+- Unknown: Suitable for building architecture research due to potential adaptiveness.
+- Unknown: Likely to support diverse tasks in architectural design analysis.
+- Unknown: Could be effective for generating and analyzing architectural layouts.
+- Unknown: Possibly capable of handling simulations relevant to architectural research.
+- Unknown: May support multi-disciplinary requirements in architecture exploration.
+2025-07-18 21:04:14,624 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:04:15,199 - INFO - 🚫 Excluded model 'Unknown #1'. 0 model(s) removed.
+2025-07-18 21:04:17,440 - INFO - ✅ Recommended models:
+- Unknown: Insufficient data to determine suitability.
+- Unknown: Insufficient data to determine suitability.
+- Unknown: Insufficient data to determine suitability.
+- Unknown: Insufficient data to determine suitability.
+- Unknown: Insufficient data to determine suitability.
+2025-07-18 21:16:18,075 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:16:19,485 - INFO - ✅ Recommended models:
+- Unfortunately, no sufficient information is available for all listed models to make a valid selection.
+2025-07-18 21:17:01,596 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:17:08,346 - INFO - ✅ Recommended models:
+- None: Insufficient information about the models provided.
+2025-07-18 21:18:34,031 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:18:35,030 - INFO - ✅ Recommended models:
+- Unable to select models: The provided list contains only "Unknown" entries with no discernible attributes for evaluation.
+2025-07-18 21:20:08,300 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:20:08,814 - INFO - 🚫 Excluded model 'Claude 3'. 0 model(s) removed.
+2025-07-18 21:20:09,729 - INFO - ✅ Recommended models:
+Unfortunately, the provided list offers no usable information (e.g., names, accuracy, speed, etc.) to evaluate or recommend models. Please provide a different list with more details.
+2025-07-18 21:29:57,125 - ERROR - ❌ MongoDB connection failed: The resolution lifetime expired after 20.015 seconds: Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.
+2025-07-18 21:29:57,126 - WARNING - ⚠️ No dataset available for recommendation.
+2025-07-18 21:30:30,992 - ERROR - ❌ MongoDB connection failed: The resolution lifetime expired after 20.002 seconds: Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.
+2025-07-18 21:30:30,993 - WARNING - ⚠️ No dataset available for recommendation.
+2025-07-18 21:36:59,607 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:37:00,386 - INFO - ✅ Recommended models:
+- Unknown: No clear information is available to evaluate or recommend.
+2025-07-18 21:37:11,903 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 21:37:12,487 - INFO - 🚫 Excluded model 'DeepSeek-R1'. 0 model(s) removed.
+2025-07-18 21:37:13,216 - INFO - ✅ Recommended models:
+- Unknown: Unable to accurately select due to insufficient data.
+2025-07-18 22:02:54,119 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 22:02:55,045 - INFO - ✅ Recommended models:
+- Unfortunately, the given list only contains models labeled as "Unknown" with no specifications or details available. I cannot select any model given the current information.
+2025-07-18 22:05:35,877 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 22:05:36,397 - INFO - 🚫 Excluded model 'Claude Opus 4'. 0 model(s) removed.
+2025-07-18 22:05:37,658 - INFO - ✅ Recommended models:
+- Unknown: Suitable for entity recognition in legal domain based on assumed capabilities. 
+- Unknown: Expected contextual understanding ideal for action extraction tasks.
+- Unknown: Multi-functional potential for extracting entities and actions efficiently.
+- Unknown: Hypothetical reliability in handling complex legal language. 
+- Unknown: Presumable high adaptability for legal contract analysis.
+2025-07-18 22:23:44,001 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 22:23:44,983 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list does not contain any discernible models or details, rendering selection impossible. Please provide a clearer set of AI models.
+2025-07-18 22:25:59,045 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 22:25:59,613 - INFO - 🚫 Excluded model 'Gemini 2.5 Pro'. 0 model(s) removed.
+2025-07-18 22:26:00,611 - INFO - ✅ Recommended models:
+- Unknown: Insufficient information provided for selection. Unable to determine suitable models.
+2025-07-18 22:27:20,923 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-18 22:27:21,006 - INFO - 🚫 Excluded model 'Claude 3.5 Haiku'. 0 model(s) removed.
+2025-07-18 22:27:22,170 - INFO - ✅ Recommended models:
+- Unable to select models: The provided list contains no usable model information (all attributes are "Unknown").
+2025-07-18 22:58:28,793 - ERROR - ❌ MongoDB connection failed: The resolution lifetime expired after 20.012 seconds: Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.; Server Do53:192.168.9.173@53 answered The DNS operation timed out.; Server Do53:192.168.117.242@53 answered The DNS operation timed out.; Server Do53:192.168.12.73@53 answered The DNS operation timed out.
+2025-07-18 22:58:28,794 - WARNING - ⚠️ No dataset available for recommendation.
+2025-07-19 00:14:34,705 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:14:36,004 - INFO - ✅ Recommended models:
+- I cannot provide a recommendation as all the available models are labeled as "Unknown" with no information available.
+2025-07-19 00:25:33,840 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:25:34,707 - INFO - ✅ Recommended models:
+- Unknown: Unable to select as all models lack any distinguishing attributes or details.
+2025-07-19 00:34:20,246 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:34:21,843 - INFO - ✅ Recommended models:
+I'm sorry, but all models in the provided list are labeled as "Unknown" with no information available for their capabilities or suitability. Please provide a list with more details on the models so I can better assist you in selecting the top ones for your requirement.
+2025-07-19 00:43:22,385 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:43:24,848 - INFO - ✅ Recommended models:
+- [No valid models available]: The given list contains "Unknown" models with no available information, making selection impossible.
+2025-07-19 00:44:29,970 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:44:31,719 - INFO - ✅ Recommended models:
+- Unfortunately, the provided list contains no information about the available models, making it impossible to select suitable ones for the given requirement. Please provide more details or a complete list.
+2025-07-19 00:53:31,006 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:53:35,079 - INFO - ✅ Recommended models:
+- Unknown: Unable to provide recommendations due to insufficient details in the model list.
+2025-07-19 00:58:43,615 - INFO - ✅ Fetched 103 models from MongoDB collection `Models`.
+2025-07-19 00:58:44,183 - INFO - 🚫 Excluded model 'Codex GPT-4'. 0 model(s) removed.
+2025-07-19 00:58:45,347 - INFO - ✅ Recommended models:
+- Unable to select appropriate models: The provided list contains only unknown models with no details for evaluation.
