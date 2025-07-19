@@ -5,4 +5,6 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python main_flask.py
     build:
-      pythonVersion: 3.10.13
+      environment:
+        pythonVersion: 3.11.8
+
