@@ -10,7 +10,6 @@ certifi==2023.7.22
 
 # --- Azure OpenAI ---
 openai==1.10.0
-# Let pip resolve tiktoken automatically
 
 # --- Communication ---
 requests==2.31.0
@@ -19,7 +18,7 @@ requests==2.31.0
 langchain-core==0.1.16
 langchain==0.1.0
 langchain-community==0.0.10
-langchain-openai==0.0.5
+langchain-openai==0.0.6
 langsmith==0.0.83
 
 # --- Basic Data Handling ---
@@ -29,4 +28,3 @@ pyyaml==6.0.1
 # --- Production Server ---
 gunicorn==21.2.0
 tiktoken==0.5.2
-langchain-openai==0.0.6
